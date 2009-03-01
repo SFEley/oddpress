@@ -3,6 +3,7 @@
 config.gem "rspec", :version => '>=1.1.12', :lib => "spec"
 config.gem "rspec-rails", :version => '>=1.1.12', :lib => "spec/rails"
 config.gem "cucumber", :version => ">=0.1"
+config.gem "notahat-machinist", :version => ">=0.3", :lib => "machinist"
 
 # The test environment is used exclusively to run your application's
 # test suite.  You never need to work with it otherwise.  Remember that
