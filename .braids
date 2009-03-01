@@ -1,0 +1,8 @@
+--- 
+vendor/plugins/time_travel: 
+  squashed: true
+  url: git://github.com/notahat/time_travel
+  type: git
+  revision: 3cb0af205b1dafb251a8f025ac48c3d573a7b800
+  branch: master
+  remote: braid/vendor/plugins/time-travel
