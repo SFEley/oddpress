@@ -5,12 +5,12 @@ Feature: View Episodes
   
   Scenario: No episodes
     Given no episodes
-    When I visit "/"
+    When I go to "/"
     Then I should see "no current episodes"
     
   Scenario: One episode
     Given an episode titled "My Test Episode"
-    When I visit "/"
+    When I go to "/"
     Then I should see "My Test Episode"
      And I should not see "no current episodes" 
      
