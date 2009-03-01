@@ -1,5 +1,9 @@
 # Settings specified here will take precedence over those in config/environment.rb
 
+config.gem "rspec", :version => '>=1.1.12', :lib => "spec"
+config.gem "rspec-rails", :version => '>=1.1.12', :lib => "spec/rails"
+config.gem "cucumber", :version => ">=0.1"
+
 # The test environment is used exclusively to run your application's
 # test suite.  You never need to work with it otherwise.  Remember that
 # your test database is "scratch space" for the test suite and is wiped
