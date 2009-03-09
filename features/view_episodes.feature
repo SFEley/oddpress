@@ -14,4 +14,11 @@ Feature: View Episodes
     Then I should see "My Test Episode"
      And I should not see "no current episodes" 
      
+  Scenario: Several episodes
+    Given 10 episodes
+     When I go to the homepage
+     Then I should see 10 episodes
+     
+
+     
   

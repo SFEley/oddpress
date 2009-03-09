@@ -1,5 +1,6 @@
-%h2= h(episode.title)
+%div[episode]
+  %h2= h(episode.title)
 
-%h3= episode.posted_at.to_s(:long)
+  %h3= episode.posted_at.to_s(:long)
 
-= h(simple_format(episode.description))
+  = h(simple_format(episode.description))

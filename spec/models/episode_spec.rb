@@ -38,7 +38,7 @@ describe Episode do
       before(:each) do
         Episode.make(:posted_at => 1.month.ago, :title => "This Is The Distant Past")
         Episode.make(:posted_at => 1.day.ago, :title => "This Is The Near Past")
-        Episode.make(:posted_at => 4.hours.ago, :title => "This Is The Present")
+        Episode.make(:title => "This Is The Present")
         Episode.make(:posted_at => 1.day.from_now, :title => "This Is The Near Future")
         Episode.make(:posted_at => 1.month.from_now, :title => "This Is The Distant Future")
       end
