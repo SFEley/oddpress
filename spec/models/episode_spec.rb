@@ -20,27 +20,27 @@ describe Episode do
       @this.should_not be_valid
     end
   
-    it "defaults the posted_at date to the current time" do
+    it "defaults the published_at date to the current time" do
       at_time Time.now do |time|
         @that = Episode.make
-        @that.posted_at.to_s(:long).should == time.to_s(:long)
+        @that.published_at.to_s(:long).should == time.to_s(:long)
       end
     end
   
-    it "allows override of posted_at date" do
-      @that = Episode.make(:posted_at => "January 3, 2009 2:21 PM")
-      @that.posted_at.to_s(:long).should == Time.parse("January 3, 2009 2:21 PM UTC").to_s(:long)
+    it "allows override of published_at date" do
+      @that = Episode.make(:published_at => "January 3, 2009 2:21 PM")
+      @that.published_at.to_s(:long).should == Time.parse("January 3, 2009 2:21 PM UTC").to_s(:long)
     end
   end
   
   describe "scoping" do
     at_time "February 27, 2008 3:15 PM EST" do
       before(:each) do
-        Episode.make(:posted_at => 1.month.ago, :title => "This Is The Distant Past")
-        Episode.make(:posted_at => 1.day.ago, :title => "This Is The Near Past")
+        Episode.make(:published_at => 1.month.ago, :title => "This Is The Distant Past")
+        Episode.make(:published_at => 1.day.ago, :title => "This Is The Near Past")
         Episode.make(:title => "This Is The Present")
-        Episode.make(:posted_at => 1.day.from_now, :title => "This Is The Near Future")
-        Episode.make(:posted_at => 1.month.from_now, :title => "This Is The Distant Future")
+        Episode.make(:published_at => 1.day.from_now, :title => "This Is The Near Future")
+        Episode.make(:published_at => 1.month.from_now, :title => "This Is The Distant Future")
       end
       
       describe "default order" do

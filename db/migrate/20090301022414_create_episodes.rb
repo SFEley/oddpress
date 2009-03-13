@@ -3,7 +3,7 @@ class CreateEpisodes < ActiveRecord::Migration
     create_table :episodes do |t|
       t.string :title, :null => false
       t.text :description
-      t.datetime :posted_at, :null => false
+      t.datetime :published_at, :null => false
 
       t.timestamps
     end

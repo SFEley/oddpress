@@ -1,8 +1,7 @@
 class EpisodesController < ApplicationController
-
-  
+    
   def index
-    @episodes = Episode.current
+    @episodes = Episode.current.paginate :page => params[:page]
     if @episodes.empty?
       flash[:warning] = "Sorry, there are no current episodes for this podcast." 
     end

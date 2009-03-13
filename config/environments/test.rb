@@ -7,6 +7,7 @@ config.gem "notahat-machinist", :lib => "machinist"
 config.gem "faker"
 config.gem "webrat"
 config.gem "nokogiri"
+config.gem "chronic"
 
 # The test environment is used exclusively to run your application's
 # test suite.  You never need to work with it otherwise.  Remember that

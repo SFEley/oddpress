@@ -18,9 +18,9 @@ describe EpisodesController do
     describe "with past and future episodes" do
       at_time "January 3, 2009 2:25 PM EST" do
         before(:each) do
-          Episode.make(:posted_at => 1.day.ago, :title => "This Is The Past")
+          Episode.make(:published_at => 1.day.ago, :title => "This Is The Past")
           Episode.make(:title => "This Is The Present")
-          Episode.make(:posted_at => 1.day.from_now, :title => "This Is The Future")
+          Episode.make(:published_at => 1.day.from_now, :title => "This Is The Future")
         end
         
         it "shows the past episode" do
