@@ -3,6 +3,8 @@ def path_to(page_name)
   
   when /the homepage/i
     root_path
+  when /the create episode page/i
+    new_episode_url
   
   # Add more page name => path mappings here
   

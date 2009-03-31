@@ -1,7 +1,7 @@
 # Settings specified here will take precedence over those in config/environment.rb
 
-config.gem "rspec", :lib => "spec"
-config.gem "rspec-rails", :lib => "spec/rails"
+config.gem "rspec", :lib => false
+config.gem "rspec-rails", :lib => false
 config.gem "cucumber"
 config.gem "notahat-machinist", :lib => "machinist"
 config.gem "faker"

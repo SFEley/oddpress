@@ -1,0 +1,9 @@
+%h1 New Episode
+
+-form_for @episode do |f|
+  =f.text_field :title, :class => 'title'
+  =f.datetime_select :published_at, :class => 'published_at'
+  =f.text_area :description, :class => 'description'
+  =f.submit
+  
+  
