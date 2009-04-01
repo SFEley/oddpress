@@ -11,4 +11,13 @@ class EpisodesController < ApplicationController
     @episode = Episode.new
   end
   
+  def create
+    @episode = Episode.new(params[:episode])
+    if @episode.save
+      flash[:notice] = "Episode created."
+      redirect_to :episodes
+    else
+      render :new
+    end
+  end
 end

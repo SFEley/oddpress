@@ -31,6 +31,27 @@ describe Episode do
       @that = Episode.make(:published_at => "January 3, 2009 2:21 PM")
       @that.published_at.to_s(:long).should == Time.parse("January 3, 2009 2:21 PM UTC").to_s(:long)
     end
+    
+  end
+
+  describe "publish attribute" do
+    before(:each) do
+      @this = Episode.make_unsaved(:published_at => "July 9, 2011 7:17 PM MDT")
+    end
+    
+    it "sets the published_at date when assigned" do
+      @this.publish = 'two days ago'
+      @this.published_at.utc.to_s(:verbose).should == 2.days.ago.utc.to_s(:verbose)
+    end
+    
+    it "retrieves the published_at date in plain English" do
+      @this.publish.should == "Sunday, July 10, 2011 at 01:17 AM UTC"
+    end
+    
+    it "throws a validation error when an unparseable string is given" do
+      @this.publish = 'blah blah yadda'
+      @this.should have(1).error_on(:published_at)
+    end
   end
   
   describe "scoping" do
