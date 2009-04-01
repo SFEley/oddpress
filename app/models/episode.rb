@@ -20,14 +20,4 @@ class Episode < ActiveRecord::Base
     self.published_at.try(:to_s, :verbose) || 'Now'
   end
       
-  if ENV["RAILS_ENV"] == "test"
-    Sham.episode_title { Faker::Company.catch_phrase }
-    Sham.episode_description { Faker::Lorem.paragraphs(2) }
-    
-    self.blueprint do
-      title { Sham.episode_title }
-      published_at { Time.now }
-      description { Sham.episode_description }
-    end
-  end
 end

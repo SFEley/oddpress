@@ -1,13 +1,9 @@
-# Settings specified here will take precedence over those in config/environment.rb
-
-config.gem "rspec", :lib => false
 config.gem "rspec-rails", :lib => false
-config.gem "cucumber"
-config.gem "notahat-machinist", :lib => "machinist"
-config.gem "faker"
-config.gem "webrat"
-config.gem "nokogiri"
-config.gem "chronic"
+config.gem "cucumber", :lib => false
+config.gem 'faker'
+config.gem 'notahat-machinist', :lib => 'machinist', :source => 'http://gems.github.com'
+require File.expand_path(RAILS_ROOT + "/spec/blueprints")
+# Settings specified here will take precedence over those in config/environment.rb
 
 # The test environment is used exclusively to run your application's
 # test suite.  You never need to work with it otherwise.  Remember that
@@ -21,6 +17,7 @@ config.whiny_nils = true
 # Show full error reports and disable caching
 config.action_controller.consider_all_requests_local = true
 config.action_controller.perform_caching             = false
+config.action_view.cache_template_loading            = true
 
 # Disable request forgery protection in test environment
 config.action_controller.allow_forgery_protection    = false

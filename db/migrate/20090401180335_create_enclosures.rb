@@ -4,7 +4,7 @@ class CreateEnclosures < ActiveRecord::Migration
       t.integer :episode_id
       t.string :filename
       t.integer :size
-      t.string :duration
+      t.integer :duration
 
       t.timestamps
     end
