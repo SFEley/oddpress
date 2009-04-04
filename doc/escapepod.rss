@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds2.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Escape Pod</title>
+    <link>http://escapepod.org</link>
+    <description>The Science Fiction Podcast Magazine.  Each week Escape Pod delivers science fiction short stories from today\'s best authors.  Listen today, and hear the new sound of science fiction!</description>
+    <pubDate>Fri, 03 Apr 2009 02:30:36 +0000</pubDate>
+    <generator>http://wordpress.org/?v=2.5.1</generator>
+    <language>en</language>
+<!-- podcast_generator="podPress/8.8" -->
+    <copyright>©Stephen Eley </copyright>
+    <managingEditor>editor@escapepod.org (Stephen Eley)</managingEditor>
+    <webMaster>editor@escapepod.org(Stephen Eley)</webMaster>
+    <category>science fiction</category>
+    <ttl>1440</ttl>
+    <itunes:keywords>science fiction, sf, stories, audiobooks, storytelling, fiction, short fiction, short story</itunes:keywords>
+    <itunes:subtitle>The Science Fiction Podcast Magazine</itunes:subtitle>
+    <itunes:summary>The Science Fiction Podcast Magazine.  Each week Escape Pod delivers science fiction short stories from todayapos;s best authors.  Listen today, and hear the new sound of science fiction!</itunes:summary>
+    <itunes:author>Stephen Eley</itunes:author>
+    <itunes:category text="Arts">
+      <itunes:category text="Literature"/>
+    </itunes:category>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:owner>
+      <itunes:name>Stephen Eley</itunes:name>
+      <itunes:email>editor@escapepod.org</itunes:email>
+    </itunes:owner>
+    <itunes:block>No</itunes:block>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://escapepod.org/wp-content/images/pod-org-icon300.jpg"/>
+    <image>
+      <link>http://escapepod.org</link>
+      <url>http://escapepod.org/wp-images/pod-icon128.jpg</url>
+      <title>Escape Pod</title>
+    </image>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://escapepod.org/podcast.xml" type="application/rss+xml"/>
+    <feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare>
+    <feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare>
+    <feedburner:browserFriendly>This is a podcast XML content feed. It is intended to be viewed in a podcatching application or podcast-capable newsreader or syndicated to another site.</feedburner:browserFriendly>
+    <item>
+      <title>EP193: Article of Faith</title>
+      <link>http://escapepod.org/2009/04/02/ep193-article-of-faith/</link>
+      <comments>http://escapepod.org/2009/04/02/ep193-article-of-faith/#comments</comments>
+      <pubDate>Fri, 03 Apr 2009 02:30:36 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=351</guid>
+      <description><![CDATA[By Mike Resnick.
+Read by Stephen Eley.
+First appeared in Baen&#8217;s Universe, October 2008.
+
+&#8220;I&#8217;m sure,&#8221; I said. &#8220;Somehow, lunch seems pretty trivial after you&#8217;ve been thinking about God all morning.&#8221;
+
+&#8220;God, sir?&#8221;
+
+&#8220;The Creator of all things,&#8221; I explained.
+
+&#8220;My creator is Stanley Kalinovsky, sir,&#8221; said Jackson. &#8220;I was not aware that he created everything in the world, nor that [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.fortunecity.com/tattooine/farmer/2/">By Mike Resnick.</a></b><br />
+Read by Stephen Eley.<br/>
+First appeared in <a href="http://www.baensuniverse.com">Baen&#8217;s Universe</a>, October 2008.</p>
+
+<p><i>&#8220;I&#8217;m sure,&#8221; I said. &#8220;Somehow, lunch seems pretty trivial after you&#8217;ve been thinking about God all morning.&#8221;</i></p>
+
+<p><i>&#8220;God, sir?&#8221;</i></p>
+
+<p><i>&#8220;The Creator of all things,&#8221; I explained.</i></p>
+
+<p><i>&#8220;My creator is Stanley Kalinovsky, sir,&#8221; said Jackson. &#8220;I was not aware that he created everything in the world, nor that his preferred name was God.&#8221;</i></p>
+
+<p><i>I couldn&#8217;t repress a smile.</i></p>
+
+<p><b>Rated PG</b>.  Contains religious themes and some violence.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/04/02/ep193-article-of-faith/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP193_ArticleOfFaith.mp3" length="30038476" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <itunes:subtitle>By Mike Resnick.
+Read by Stephen Eley.
+First appeared in Baen's Universe, October 2008.
+
+"I'm sure," I said. "Somehow, lunch seems pretty trivial after you've been thinking about ...</itunes:subtitle>
+      <itunes:summary>By Mike Resnick.
+Read by Stephen Eley.
+First appeared in Baen's Universe, October 2008.
+
+"I'm sure," I said. "Somehow, lunch seems pretty trivial after you've been thinking about God all morning."
+
+"God, sir?"
+
+"The Creator of all things," I explained.
+
+"My creator is Stanley Kalinovsky, sir," said Jackson. "I was not aware that he created everything in the world, nor that his preferred name was God."
+
+I couldn't repress a smile.
+
+Rated PG.  Contains religious themes and some violence.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG,,Uncategorized</itunes:keywords>
+      <itunes:author>Mike Resnick</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash: A Preference for Silence</title>
+      <link>http://escapepod.org/2009/03/31/a-preference-for-silence/</link>
+      <comments>http://escapepod.org/2009/03/31/a-preference-for-silence/#comments</comments>
+      <pubDate>Tue, 31 Mar 2009 17:56:33 +0000</pubDate>
+      <dc:creator>JeremyT</dc:creator>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=349</guid>
+      <description><![CDATA[By Lucy A. Snyder
+Read by Ann Leckie
+
+Veronica was a spaceworthy lass with a definite preference for silence and  a sensitivity to detail. She&#8217;d never lost her tea in zero gee and had  always been the first to note when the coffee maker needed cleaning or when  the fluorescent lights would flick-flicker in [...]]]></description>
+      <content:encoded><![CDATA[<p><strong>By <a href=" http://www.sff.net/people/lucy-snyder/">Lucy A. Snyder</a></strong>
+Read by Ann Leckie</p>
+
+<p><em>Veronica was a spaceworthy lass with a definite preference for silence and  a sensitivity to detail. She&#8217;d never lost her tea in zero gee and had  always been the first to note when the coffee maker needed cleaning or when  the fluorescent lights would flick-flicker in signal of the bulbs&#8217;  impending death.</em></p>
+
+<p><strong>Rated R</strong>. Contains sexual situations and noisy people.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/31/a-preference-for-silence/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash_PreferenceForSilence.mp3" length="4341386" type="audio/mpeg"/>
+      <itunes:duration>6:01</itunes:duration>
+      <itunes:subtitle>By Lucy A. Snyder
+Read by Ann Leckie
+
+Veronica was a spaceworthy lass with a definite preference for silence and  a sensitivity to detail. She'd never ...</itunes:subtitle>
+      <itunes:summary>By Lucy A. Snyder
+Read by Ann Leckie
+
+Veronica was a spaceworthy lass with a definite preference for silence and  a sensitivity to detail. She'd never lost her tea in zero gee and had  always been the first to note when the coffee maker needed cleaning or when  the fluorescent lights would flick-flicker in signal of the bulbs'  impending death.
+
+Rated R. Contains sexual situations and noisy people.
+</itunes:summary>
+      <itunes:keywords>Uncategorized</itunes:keywords>
+      <itunes:author>Lucy A. Snyder</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP192: Sumo21</title>
+      <link>http://escapepod.org/2009/03/28/ep192-sumo21/</link>
+      <comments>http://escapepod.org/2009/03/28/ep192-sumo21/#comments</comments>
+      <pubDate>Sat, 28 Mar 2009 23:00:14 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=348</guid>
+      <description><![CDATA[By Daniel Braum.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+&#8220;Oh great Emperor,&#8221; the gyoji said, continuing the ritual. &#8220;These two
+honorable warriors can not agree who will step aside, and who will
+join the sacred battle to return you to us. We would gladly send all
+our sons, but the Council of Infinite Japans says there [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.danielbraum.com">By Daniel Braum.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>&#8220;Oh great Emperor,&#8221; the gyoji said, continuing the ritual. &#8220;These two
+honorable warriors can not agree who will step aside, and who will
+join the sacred battle to return you to us. We would gladly send all
+our sons, but the Council of Infinite Japans says there may be only
+twenty-one. So now they must fight to decide.&#8221;</i></p>
+
+<p><i>&#8220;May the best warrior join the fight,&#8221; the crowd answered in unison
+with the gyoji.</i></p>
+
+<p><i>The gyoji stepped back.  Asashoryu stared into Takanasuro&#8217;s
+expressionless brown eyes. The match would begin upon a tacit
+agreement between them. He kept Takanasuro&#8217;s mid section in his field
+of vision while focusing on keeping his own face blank. He knew the
+beginner&#8217;s lesson as if it were part of him; faces deceive and betray,
+but all movement starts at the hips.</i></p>
+
+<p><b>Rated PG</b>.  Contains death, betrayal, hauntings, and a challenging amount of Japanese.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/28/ep192-sumo21/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP192_Sumo21.mp3" length="38192745" type="audio/mpeg"/>
+      <itunes:duration>53:00</itunes:duration>
+      <itunes:subtitle>By Daniel Braum.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+"Oh great Emperor," the gyoji said, continuing the ritual. "These two
+honorable warriors can not ...</itunes:subtitle>
+      <itunes:summary>By Daniel Braum.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+"Oh great Emperor," the gyoji said, continuing the ritual. "These two
+honorable warriors can not agree who will step aside, and who will
+join the sacred battle to return you to us. We would gladly send all
+our sons, but the Council of Infinite Japans says there may be only
+twenty-one. So now they must fight to decide."
+
+"May the best warrior join the fight," the crowd answered in unison
+with the gyoji.
+
+The gyoji stepped back.  Asashoryu stared into Takanasuro's
+expressionless brown eyes. The match would begin upon a tacit
+agreement between them. He kept Takanasuro's mid section in his field
+of vision while focusing on keeping his own face blank. He knew the
+beginner's lesson as if it were part of him; faces deceive and betray,
+but all movement starts at the hips.
+
+Rated PG.  Contains death, betrayal, hauntings, and a challenging amount of Japanese.
+</itunes:summary>
+      <itunes:keywords>Rated,PG</itunes:keywords>
+      <itunes:author>Daniel Braum</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash: Beachcomber</title>
+      <link>http://escapepod.org/2009/03/23/escape-pod-flash-beachcomber/</link>
+      <comments>http://escapepod.org/2009/03/23/escape-pod-flash-beachcomber/#comments</comments>
+      <pubDate>Mon, 23 Mar 2009 05:01:27 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=334</guid>
+      <description><![CDATA[By Mike Resnick
+Read by Elie Hirschman
+
+Arlo didn&#8217;t look much like a man. (Not all robots do, you know.) The problem was that he didn&#8217;t act all that much like a robot.
+
+Rated PG. Contains hopes that will never be fulfilled.
+]]></description>
+      <content:encoded><![CDATA[<p><strong>By <a href="http://www.fortunecity.com/tattooine/farmer/2/">Mike Resnick</a></strong>
+Read by <a href="http://eliehirschman.com/">Elie Hirschman</a></p>
+
+<p><em>Arlo didn&#8217;t look much like a man. (Not all robots do, you know.) The problem was that he didn&#8217;t act all that much like a robot.</em></p>
+
+<p><strong>Rated PG</strong>. Contains hopes that will never be fulfilled.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/23/escape-pod-flash-beachcomber/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash_Beachcomber.mp3" length="8712869" type="audio/mpeg"/>
+      <itunes:duration>9:05</itunes:duration>
+      <itunes:subtitle>By Mike Resnick
+Read by Elie Hirschman
+
+Arlo didn't look much like a man. (Not all robots do, you know.) The problem was that he didn't act ...</itunes:subtitle>
+      <itunes:summary>By Mike Resnick
+Read by Elie Hirschman
+
+Arlo didn't look much like a man. (Not all robots do, you know.) The problem was that he didn't act all that much like a robot.
+
+Rated PG. Contains hopes that will never be fulfilled.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts</itunes:keywords>
+      <itunes:author>Mike Resnick</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP191: This Is How It Feels</title>
+      <link>http://escapepod.org/2009/03/19/ep191-this-is-how-it-feels/</link>
+      <comments>http://escapepod.org/2009/03/19/ep191-this-is-how-it-feels/#comments</comments>
+      <pubDate>Thu, 19 Mar 2009 05:00:57 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=343</guid>
+      <description><![CDATA[By Ian Creasey.
+Read by FNH (of The Cthulhu Podcast).
+First appeared in Asimov&#8217;s, March 2008
+
+Guest Host: Tony Smith (of Starship Sofa)
+
+Nathan&#8217;s eyes stung as he remembered how Jenny used to do just that: the same jump down the stairs, the same windmilling of her arms as she landed&#8230;.  The grief swept over him like a [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.iancreasey.com/">By Ian Creasey.</a></b><br />
+Read by FNH (of <a href="http://cthulhupodcast.blogspot.com/">The Cthulhu Podcast</a>).<br/>
+First appeared in <a href="http://www.asimovs.com">Asimov&#8217;s</a>, March 2008</p>
+
+<p>Guest Host: Tony Smith (of <a href="http://starshipsofa.com">Starship Sofa</a>)<br/></p>
+
+<p><i>Nathan&#8217;s eyes stung as he remembered how Jenny used to do just that: the same jump down the stairs, the same windmilling of her arms as she landed&#8230;.  The grief swept over him like a palpable wave, making him stagger backward.</i></p>
+
+<p><i>&#8220;Dad?&#8221;  Christopher kicked his backpack down the hall to the door.  &#8220;You all right?&#8221;</i></p>
+
+<p><i>&#8220;It&#8217;s nothing,&#8221; said Nathan.  He rubbed the implant-port behind his right ear.  <strong>It&#8217;s nothing.  It&#8217;s not real.</strong></i></p>
+
+<p><i>But it <strong>felt</strong> real.</i></p>
+
+<p><b>Rated PG</b>.  Contains themes of death and child endangerment.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/19/ep191-this-is-how-it-feels/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP191_ThisIsHowItFeels.mp3" length="27123527" type="audio/mpeg"/>
+      <itunes:duration>37:37</itunes:duration>
+      <itunes:subtitle>By Ian Creasey.
+Read by FNH (of The Cthulhu Podcast).
+First appeared in Asimov's, March 2008
+
+Guest Host: Tony Smith (of Starship Sofa)
+
+Nathan's eyes stung as he remembered ...</itunes:subtitle>
+      <itunes:summary>By Ian Creasey.
+Read by FNH (of The Cthulhu Podcast).
+First appeared in Asimov's, March 2008
+
+Guest Host: Tony Smith (of Starship Sofa)
+
+Nathan's eyes stung as he remembered how Jenny used to do just that: the same jump down the stairs, the same windmilling of her arms as she landed....  The grief swept over him like a palpable wave, making him stagger backward.
+
+"Dad?"  Christopher kicked his backpack down the hall to the door.  "You all right?"
+
+"It's nothing," said Nathan.  He rubbed the implant-port behind his right ear.  It's nothing.  It's not real.
+
+But it felt real.
+
+Rated PG.  Contains themes of death and child endangerment.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Ian Creasey</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash: It Was Death By a Bullet, But I Was Killed By a Woman</title>
+      <link>http://escapepod.org/2009/03/16/escape-pod-flash-it-was-death-by-a-bullet-but-i-was-killed-by-a-woman/</link>
+      <comments>http://escapepod.org/2009/03/16/escape-pod-flash-it-was-death-by-a-bullet-but-i-was-killed-by-a-woman/#comments</comments>
+      <pubDate>Mon, 16 Mar 2009 05:01:46 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=333</guid>
+      <description><![CDATA[By Michael Bekemeyer
+Read by Alasdair Stuart (of Pseudopod)
+
+I have a special skill. I am a part of a small group of people on this planet that can do special things with their minds. You have your mind readers, your empaths &#8212; and you have people like me who can control things through telekinesis.  I [...]]]></description>
+      <content:encoded><![CDATA[<p><strong>By Michael Bekemeyer</strong>
+Read by Alasdair Stuart (of <a href="http://www.pseudopod.org">Pseudopod</a>)</p>
+
+<p><em>I have a special skill. I am a part of a small group of people on this planet that can do special things with their minds. You have your mind readers, your empaths &#8212; and you have people like me who can control things through telekinesis.  I have always been able to move things, just by thinking about it.  It always came in helpful when playing golf. </em></p>
+
+<p><strong>Rated R.</strong> Contains sex and violence.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/16/escape-pod-flash-it-was-death-by-a-bullet-but-i-was-killed-by-a-woman/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash_ItWasDeathByABullet.mp3" length="4437193" type="audio/mpeg"/>
+      <itunes:duration>4:37</itunes:duration>
+      <itunes:subtitle>By Michael Bekemeyer
+Read by Alasdair Stuart (of Pseudopod)
+
+I have a special skill. I am a part of a small group of people on this planet ...</itunes:subtitle>
+      <itunes:summary>By Michael Bekemeyer
+Read by Alasdair Stuart (of Pseudopod)
+
+I have a special skill. I am a part of a small group of people on this planet that can do special things with their minds. You have your mind readers, your empaths -- and you have people like me who can control things through telekinesis.  I have always been able to move things, just by thinking about it.  It always came in helpful when playing golf. 
+
+Rated R. Contains sex and violence.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Uncategorized</itunes:keywords>
+      <itunes:author>Michael Bekemeyer</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP190: Origin Story</title>
+      <link>http://escapepod.org/2009/03/12/ep190-origin-story/</link>
+      <comments>http://escapepod.org/2009/03/12/ep190-origin-story/#comments</comments>
+      <pubDate>Thu, 12 Mar 2009 07:30:26 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=342</guid>
+      <description><![CDATA[By Tim Pratt.
+Read by Stephen Eley.
+Special closing music: &#8220;Skullcrusher Mountain&#8221; by Jonathan Coulton.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+He didn&#8217;t call himself The Aerialist at first. The newspapers came up with that later. He called himself Kid Kangaroo of all things, because of the jumping from rooftop to rooftop, even though I made fun of [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.timpratt.corg/">By Tim Pratt.</a></b><br />
+Read by Stephen Eley.<br />
+Special closing music: &#8220;Skullcrusher Mountain&#8221; by <a href="http://www.jonathancoulton.com">Jonathan Coulton</a>.</p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>He didn&#8217;t call himself The Aerialist at first. The newspapers came up with that later. He called himself Kid Kangaroo of all things, because of the jumping from rooftop to rooftop, even though I made fun of him, called him &#8220;Joey,&#8221; made jokes about dingoes. Nobody knows his secret identity but me, and I only found out because I snuck into the treehouse one night to smoke a cigarette and found him changing out of his leotard and tights and domino mask. He was only fifteen. I still remember what he said: &#8220;Don&#8217;t tell anyone &#8212; if my identity is discovered, you and mom and dad could be used against me.&#8221; </i></p>
+
+<p><b>Rated PG</b>.  Contains sibling rivalry and comic book deconstruction.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/12/ep190-origin-story/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP190_OriginStory.mp3" length="24477024" type="audio/mpeg"/>
+      <itunes:duration>33:57</itunes:duration>
+      <itunes:subtitle>By Tim Pratt.
+Read by Stephen Eley.
+Special closing music: "Skullcrusher Mountain" by Jonathan Coulton.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+He didn't call himself The Aerialist at ...</itunes:subtitle>
+      <itunes:summary>By Tim Pratt.
+Read by Stephen Eley.
+Special closing music: "Skullcrusher Mountain" by Jonathan Coulton.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+He didn't call himself The Aerialist at first. The newspapers came up with that later. He called himself Kid Kangaroo of all things, because of the jumping from rooftop to rooftop, even though I made fun of him, called him "Joey," made jokes about dingoes. Nobody knows his secret identity but me, and I only found out because I snuck into the treehouse one night to smoke a cigarette and found him changing out of his leotard and tights and domino mask. He was only fifteen. I still remember what he said: "Don't tell anyone -- if my identity is discovered, you and mom and dad could be used against me." 
+
+Rated PG.  Contains sibling rivalry and comic book deconstruction.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash: My Angel Gabriel</title>
+      <link>http://escapepod.org/2009/03/09/escape-pod-flash-my-angel-gabriel/</link>
+      <comments>http://escapepod.org/2009/03/09/escape-pod-flash-my-angel-gabriel/#comments</comments>
+      <pubDate>Mon, 09 Mar 2009 05:01:55 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=332</guid>
+      <description><![CDATA[By J. R. Blackwell
+Read by Ann Leckie (of PodCastle)
+
+&#8220;Becky.&#8221; Typed Rachel &#8220;I had to ban him. I&#8217;m sorry. He was a bot, a spider, a program. He wasn&#8217;t human.&#8221; Becky&#8217;s green words glowed on her screen almost immediately.
+
+&#8220;He talked to me! Every day! What do you mean he wasn&#8217;t human?&#8221;
+
+Rachel exhaled; this was going to [...]]]></description>
+      <content:encoded><![CDATA[<p><strong>By J. R. Blackwell</strong>
+Read by Ann Leckie (of <a href="http://podcastle.org">PodCastle</a>)</p>
+
+<p><em>&#8220;Becky.&#8221; Typed Rachel &#8220;I had to ban him. I&#8217;m sorry. He was a bot, a spider, a program. He wasn&#8217;t human.&#8221; Becky&#8217;s green words glowed on her screen almost immediately.</em></p>
+
+<p><em>&#8220;He talked to me! Every day! What do you mean he wasn&#8217;t human?&#8221;</em></p>
+
+<p><em>Rachel exhaled; this was going to be tough. &#8220;Didn&#8217;t you notice he kept trying to get you to buy games?&#8221;</em></p>
+
+<p><em>&#8220;I like buying games! Who cares? I really liked Gabriel. You two were the only people on this forum I could talk to.&#8221;</em></p>
+
+<p><strong>Rated R.</strong> Models internet behavior you wouldn&#8217;t want your children to emulate.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/09/escape-pod-flash-my-angel-gabriel/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash_MyAngelGabriel.mp3" length="3626731" type="audio/mpeg"/>
+      <itunes:duration>3:47</itunes:duration>
+      <itunes:subtitle>By J. R. Blackwell
+Read by Ann Leckie (of PodCastle)
+
+"Becky." Typed Rachel "I had to ban him. I'm sorry. He was a bot, a spider, a ...</itunes:subtitle>
+      <itunes:summary>By J. R. Blackwell
+Read by Ann Leckie (of PodCastle)
+
+"Becky." Typed Rachel "I had to ban him. I'm sorry. He was a bot, a spider, a program. He wasn't human." Becky's green words glowed on her screen almost immediately.
+
+"He talked to me! Every day! What do you mean he wasn't human?"
+
+Rachel exhaled; this was going to be tough. "Didn't you notice he kept trying to get you to buy games?"
+
+"I like buying games! Who cares? I really liked Gabriel. You two were the only people on this forum I could talk to."
+
+Rated R. Models internet behavior you wouldn't want your children to emulate.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts</itunes:keywords>
+      <itunes:author>J. R. Blackwell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP189: The Botox School of Acting</title>
+      <link>http://escapepod.org/2009/03/04/ep189-the-botox-school-of-acting/</link>
+      <comments>http://escapepod.org/2009/03/04/ep189-the-botox-school-of-acting/#comments</comments>
+      <pubDate>Wed, 04 Mar 2009 07:00:37 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=341</guid>
+      <description><![CDATA[By Liz Shannon Miller.
+Read by Dani Cutler (of Truth Seekers).
+
+Guest Host: Jeffrey R. DeRego
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+Only the best gain acceptance.  Harry cannot be bought.  Twice a year,
+he attends the fashion shows, looking for an unknown to transform, but
+most of the time they come to him &#8212; the beautiful, the [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.genevievevalentine.com/">By Liz Shannon Miller.</a></b><br />
+Read by Dani Cutler (of <a href="http://audioaddict.libsyn.com/">Truth Seekers</a>).</p>
+
+<p>Guest Host: <a href="http://jeffderego.blogspot.com">Jeffrey R. DeRego</a><br/></p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>Only the best gain acceptance.  Harry cannot be bought.  Twice a year,
+he attends the fashion shows, looking for an unknown to transform, but
+most of the time they come to him &#8212; the beautiful, the elegant, the
+desperate.  They plead with him, their eyes containing all the emotion
+their faces cannot show.  The beauties who want to be brilliant, who
+want to move beyond the limitations of their appearance.  Who want to
+act.</i></p>
+
+<p><i>&#8220;Boxtresses&#8221;, people call his students, and Harry doesn&#8217;t bother to
+correct the gender assumption, because his class for actors is still
+ostensibly secret.  No one wants to believe that action heroes need to
+avoid aging.  It&#8217;s their love interests who need to stay fresh.</i></p>
+
+<p><b>Rated PG</b>.  Contains profanity and shallow motivations.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/03/04/ep189-the-botox-school-of-acting/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP189_BotoxSchoolOfActing.mp3" length="22650192" type="audio/mpeg"/>
+      <itunes:duration>31:25</itunes:duration>
+      <itunes:subtitle>By Liz Shannon Miller.
+Read by Dani Cutler (of Truth Seekers).
+
+Guest Host: Jeffrey R. DeRego
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+Only the best gain acceptance.  ...</itunes:subtitle>
+      <itunes:summary>By Liz Shannon Miller.
+Read by Dani Cutler (of Truth Seekers).
+
+Guest Host: Jeffrey R. DeRego
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+Only the best gain acceptance.  Harry cannot be bought.  Twice a year,
+he attends the fashion shows, looking for an unknown to transform, but
+most of the time they come to him -- the beautiful, the elegant, the
+desperate.  They plead with him, their eyes containing all the emotion
+their faces cannot show.  The beauties who want to be brilliant, who
+want to move beyond the limitations of their appearance.  Who want to
+act.
+
+"Boxtresses", people call his students, and Harry doesn't bother to
+correct the gender assumption, because his class for actors is still
+ostensibly secret.  No one wants to believe that action heroes need to
+avoid aging.  It's their love interests who need to stay fresh.
+
+Rated PG.  Contains profanity and shallow motivations.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Liz Shannon Miller</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP188: 29 Union Leaders Can’t Be Wrong</title>
+      <link>http://escapepod.org/2009/02/27/ep188-29-union-leaders-cant-be-wrong/</link>
+      <comments>http://escapepod.org/2009/02/27/ep188-29-union-leaders-cant-be-wrong/#comments</comments>
+      <pubDate>Fri, 27 Feb 2009 05:36:11 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated R]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=340</guid>
+      <description><![CDATA[By Genevieve Valentine.
+Read by Chris Lester (of Metamor City).
+First appeared in Strange Horizons, November 2007
+
+Guest Host: Jeffrey R. DeRego
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+&#8220;This is normal,&#8221; the doctor says, and, &#8220;Give yourself time, it&#8217;s
+key,&#8221; and, &#8220;The hospital psychiatrist will be speaking to you about
+some support groups.&#8221;
+
+&#8220;What about Marlene?&#8221;
+
+&#8220;She&#8217;s speaking with one of our counselors,&#8221; [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.genevievevalentine.com/">By Genevieve Valentine.</a></b><br />
+Read by Chris Lester (of <a href="http://www.metamorcity.com/">Metamor City</a>).<br/>
+First appeared in <a href="http://www.strangehorizons.com">Strange Horizons</a>, November 2007</p>
+
+<p>Guest Host: <a href="http://jeffderego.blogspot.com">Jeffrey R. DeRego</a><br/></p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>&#8220;This is normal,&#8221; the doctor says, and, &#8220;Give yourself time, it&#8217;s
+key,&#8221; and, &#8220;The hospital psychiatrist will be speaking to you about
+some support groups.&#8221;</i></p>
+
+<p><i>&#8220;What about Marlene?&#8221;</i></p>
+
+<p><i>&#8220;She&#8217;s speaking with one of our counselors,&#8221; the doctor says. &#8220;Full
+transplant is usually something of a shock to the loved one, at
+first.&#8221;</i></p>
+
+<p><i>&#8220;How long until I can see her?&#8221;</i></p>
+
+<p><i>&#8220;That&#8217;s up to her,&#8221; the doctor says. &#8220;Can you squeeze the orange for me?&#8221;</i></p>
+
+<p><i>As long as he doesn&#8217;t look, it&#8217;s fine.</i></p>
+
+<p><b>Rated R</b>.  Contains adult situations and violence.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/02/27/ep188-29-union-leaders-cant-be-wrong/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP188_29UnionLeaders.mp3" length="20664056" type="audio/mpeg"/>
+      <itunes:duration>28:40</itunes:duration>
+      <itunes:subtitle>By Genevieve Valentine.
+Read by Chris Lester (of Metamor City).
+First appeared in Strange Horizons, November 2007
+
+Guest Host: Jeffrey R. DeRego
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+"This ...</itunes:subtitle>
+      <itunes:summary>By Genevieve Valentine.
+Read by Chris Lester (of Metamor City).
+First appeared in Strange Horizons, November 2007
+
+Guest Host: Jeffrey R. DeRego
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+"This is normal," the doctor says, and, "Give yourself time, it's
+key," and, "The hospital psychiatrist will be speaking to you about
+some support groups."
+
+"What about Marlene?"
+
+"She's speaking with one of our counselors," the doctor says. "Full
+transplant is usually something of a shock to the loved one, at
+first."
+
+"How long until I can see her?"
+
+"That's up to her," the doctor says. "Can you squeeze the orange for me?"
+
+As long as he doesn't look, it's fine.
+
+Rated R.  Contains adult situations and violence.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+      <itunes:author>Genevieve Valentine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP187: Summer in Paris, Light from the Sky</title>
+      <link>http://escapepod.org/2009/02/07/ep187-summer-in-paris-light-from-the-sky/</link>
+      <comments>http://escapepod.org/2009/02/07/ep187-summer-in-paris-light-from-the-sky/#comments</comments>
+      <pubDate>Sat, 07 Feb 2009 23:05:06 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated R]]></category>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=338</guid>
+      <description><![CDATA[By Ken Scholes.
+Read by Alex Wilson (of Telltale Weekly).
+
+Adolf Hitler came to Paris in June 1941 feeling the weight of his years in his legs and the taste of a dying dream in his mouth.  He spent most of that first day walking up and down the Champs Elysées, working the stiffness out of [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://kenscholes.com">By Ken Scholes.</a></b><br />
+Read by Alex Wilson (of <a href="http://telltaleweekly.org">Telltale Weekly</a>).<br/></p>
+
+<p><i>Adolf Hitler came to Paris in June 1941 feeling the weight of his years in his legs and the taste of a dying dream in his mouth.  He spent most of that first day walking up and down the Champs Elysées, working the stiffness out of his bones and muscles while he looked at the shops and the people.  Some of the dull ache was from the wooden benches on the train from Hamburg; most of it was age.  And beneath the discomfort of his body, his soul ached too.</i></p>
+
+<p><i>He&#8217;d never been here before, he thought as the Parisians slipped past in the noon-time sun.  He snorted at the revelation.  A fine painter you are, he told himself.</i></p>
+
+<p><b>Rated R</b>.  Contains sexual violence.  Also may be offensive to some for historical reasons.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/02/07/ep187-summer-in-paris-light-from-the-sky/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP187_SummerInParis.mp3" length="36022484" type="audio/mpeg"/>
+      <itunes:duration>50:00</itunes:duration>
+      <itunes:subtitle>By Ken Scholes.
+Read by Alex Wilson (of Telltale Weekly).
+
+Adolf Hitler came to Paris in June 1941 feeling the weight of his years in his legs ...</itunes:subtitle>
+      <itunes:summary>By Ken Scholes.
+Read by Alex Wilson (of Telltale Weekly).
+
+Adolf Hitler came to Paris in June 1941 feeling the weight of his years in his legs and the taste of a dying dream in his mouth.  He spent most of that first day walking up and down the Champs Elyseacute;es, working the stiffness out of his bones and muscles while he looked at the shops and the people.  Some of the dull ache was from the wooden benches on the train from Hamburg; most of it was age.  And beneath the discomfort of his body, his soul ached too.
+
+He'd never been here before, he thought as the Parisians slipped past in the noon-time sun.  He snorted at the revelation.  A fine painter you are, he told himself.
+
+Rated R.  Contains sexual violence.  Also may be offensive to some for historical reasons.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,R,,Uncategorized</itunes:keywords>
+      <itunes:author>Ken Scholes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP186: Chrysalis</title>
+      <link>http://escapepod.org/2009/01/09/ep186-chrysalis/</link>
+      <comments>http://escapepod.org/2009/01/09/ep186-chrysalis/#comments</comments>
+      <pubDate>Fri, 09 Jan 2009 21:05:48 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated G]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=337</guid>
+      <description><![CDATA[By Mary Robinette Kowal.
+Read by Cunning Minx (of Polyamory Weekly).
+
+Sponsored by CONTAGIOUS, by Scott Sigler.
+
+People ask me if I ever get involved with the subjects of my
+documentaries. I have a difficult time imagining that they would ask
+my male colleagues the same question, but they seem to expect women to
+be more emotional. In response, I tend [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://maryrobinettekowal.com">By Mary Robinette Kowal.</a></b><br />
+Read by Cunning Minx (of <a href="http://polyweekly.com">Polyamory Weekly</a>).<br/></p>
+
+<p><b>Sponsored by <a href="http://www.amazon.com/gp/product/0307406318?ie=UTF8&#038;tag=escapepod-20&#038;creativeASIN=0307406318">CONTAGIOUS</a>, by Scott Sigler.</b></p>
+
+<p><i>People ask me if I ever get involved with the subjects of my
+documentaries. I have a difficult time imagining that they would ask
+my male colleagues the same question, but they seem to expect women to
+be more emotional. In response, I tend to grit my teeth and answer
+very patiently with another question. How could I do my job if I were
+part of the story? Only by maintaining a sacred distance could I have
+any hope of understanding someone&#8217;s life. A documentarian records, but
+does not participate.</i></p>
+
+<p><b>Rated G</b>.  Contains alien emotional drama.</p>
+
+<p><a href='http://www.amazon.com/gp/product/0307406318?ie=UTF8&#038;tag=escapepod-20&#038;creativeASIN=0307406318'><img src='http://ec1.images-amazon.com/images/I/41BP5PcLR4L._SL500_AA240_.jpg'></a></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/01/09/ep186-chrysalis/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP186_Chrysalis.mp3" length="19590334" type="audio/mpeg"/>
+      <itunes:duration>27:10</itunes:duration>
+      <itunes:subtitle>By Mary Robinette Kowal.
+Read by Cunning Minx (of Polyamory Weekly).
+
+Sponsored by CONTAGIOUS, by Scott Sigler.
+
+People ask me if I ever get involved with the subjects ...</itunes:subtitle>
+      <itunes:summary>By Mary Robinette Kowal.
+Read by Cunning Minx (of Polyamory Weekly).
+
+Sponsored by CONTAGIOUS, by Scott Sigler.
+
+People ask me if I ever get involved with the subjects of my
+documentaries. I have a difficult time imagining that they would ask
+my male colleagues the same question, but they seem to expect women to
+be more emotional. In response, I tend to grit my teeth and answer
+very patiently with another question. How could I do my job if I were
+part of the story? Only by maintaining a sacred distance could I have
+any hope of understanding someone's life. A documentarian records, but
+does not participate.
+
+Rated G.  Contains alien emotional drama.
+
+
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,G</itunes:keywords>
+      <itunes:author>Mary Robinette Kowal</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP185: Union Dues - All About the Sponsors</title>
+      <link>http://escapepod.org/2009/01/02/ep185-union-dues-all-about-the-sponsors/</link>
+      <comments>http://escapepod.org/2009/01/02/ep185-union-dues-all-about-the-sponsors/#comments</comments>
+      <pubDate>Fri, 02 Jan 2009 08:00:00 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=336</guid>
+      <description><![CDATA[By Jeffrey R. DeRego.
+Read by Stephen Eley.
+
+Sponsored by CONTAGIOUS, by Scott Sigler.
+
+I suck in my chest and tighten the buckles before getting lightheaded. I don&#8217;t have to wear the costume anymore, but it seems disrespectful to leave it in the closet for this one last mission. I get the boots on and struggle with the [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://myspace.com/jrderegowriterl/">By Jeffrey R. DeRego.</a></b><br />
+Read by Stephen Eley.<br/></p>
+
+<p><b>Sponsored by <a href="http://www.amazon.com/gp/product/0307406318?ie=UTF8&#038;tag=escapepod-20&#038;creativeASIN=0307406318">CONTAGIOUS</a>, by Scott Sigler.</b></p>
+
+<p><i>I suck in my chest and tighten the buckles before getting lightheaded. I don&#8217;t have to wear the costume anymore, but it seems disrespectful to leave it in the closet for this one last mission. I get the boots on and struggle with the leather straps and silver buckles until my fingers feel like they&#8217;re ready to fall off. I surrender and creak back up to standing position. &#8220;Ok screw the boot buckles, Jim,&#8221; I whisper. &#8220;This is it.&#8221;</i></p>
+
+<p><i>I glance at the open briefcase laid across the corner of my desk but I&#8217;ve got everything I need. I pick up the silver frame with the little black and white photo of me, Frida, Alex, Paul, and Steve in our original <b>Liberty League</b> getup. Frida Freedom called me four hours ago. Her voice broke when she said the words, &#8220;Alex is dead.&#8221; I drop the frame into the case atop a weathered manila folder then close the whole thing up before hobbling out towards the waiting jet.</i></p>
+
+<p><b>Rated PG</b>.  Contains some profanity, some violence, and strong rhetoric.</p>
+
+<p><a href='http://www.amazon.com/gp/product/0307406318?ie=UTF8&#038;tag=escapepod-20&#038;creativeASIN=0307406318'><img src='http://ec1.images-amazon.com/images/I/41BP5PcLR4L._SL500_AA240_.jpg'></a></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2009/01/02/ep185-union-dues-all-about-the-sponsors/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP185_UD_AllAboutTheSponsors.mp3" length="33071117" type="audio/mpeg"/>
+      <itunes:duration>45:54</itunes:duration>
+      <itunes:subtitle>By Jeffrey R. DeRego.
+Read by Stephen Eley.
+
+Sponsored by CONTAGIOUS, by Scott Sigler.
+
+I suck in my chest and tighten the buckles before getting lightheaded. I don't ...</itunes:subtitle>
+      <itunes:summary>By Jeffrey R. DeRego.
+Read by Stephen Eley.
+
+Sponsored by CONTAGIOUS, by Scott Sigler.
+
+I suck in my chest and tighten the buckles before getting lightheaded. I don't have to wear the costume anymore, but it seems disrespectful to leave it in the closet for this one last mission. I get the boots on and struggle with the leather straps and silver buckles until my fingers feel like they're ready to fall off. I surrender and creak back up to standing position. "Ok screw the boot buckles, Jim," I whisper. "This is it."
+
+I glance at the open briefcase laid across the corner of my desk but I've got everything I need. I pick up the silver frame with the little black and white photo of me, Frida, Alex, Paul, and Steve in our original Liberty League getup. Frida Freedom called me four hours ago. Her voice broke when she said the words, "Alex is dead." I drop the frame into the case atop a weathered manila folder then close the whole thing up before hobbling out towards the waiting jet.
+
+Rated PG.  Contains some profanity, some violence, and strong rhetoric.
+
+
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Jeffrey R. DeRego</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash: Standards</title>
+      <link>http://escapepod.org/2008/12/29/escape-pod-flash-standards/</link>
+      <comments>http://escapepod.org/2008/12/29/escape-pod-flash-standards/#comments</comments>
+      <pubDate>Tue, 30 Dec 2008 02:26:46 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated G]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=331</guid>
+      <description><![CDATA[by Richard K. Lyon
+Read by Frank Key (of Hooting Yard)
+
+After careful examination of your manuscript no 113785, Corbamite, An Insulator Against Gravity, the editors of Review of Physics have concluded that it is not suitable for publication in this journal. This decision is final and further correspondence on this subject will serve no useful purpose.
+
+Since [...]]]></description>
+      <content:encoded><![CDATA[<p><strong>by Richard K. Lyon</strong><br/>
+Read by Frank Key (of <a href="http://hootingyard.org">Hooting Yard</a>)</p>
+
+<p><em>After careful examination of your manuscript no 113785, Corbamite, An Insulator Against Gravity, the editors of Review of Physics have concluded that it is not suitable for publication in this journal. This decision is final and further correspondence on this subject will serve no useful purpose.</em></p>
+
+<p><i>Since the above may seem somewhat harsh, let me say what I can to mitigate it. The editors do appreciate that you are working under difficult circumstances: when the senior author of a paper is deceased, it is always hard for the junior author to complete the work in an appropriate manner. Also let us assure you that we do believe you. You have told us that with his dying breath Professor Steinhardt handed you his notebook and said, &#8220;Have this published in Review of Physics.&#8221; Such an action would be completely in character for Steinhardt since he was a true scientist.</i></p>
+
+<p><i>As for your claim that Professor Steinhardt made this statement as he was expiring from disintegrator rays wounds suffered during your escape from the City of Disembodied Brains on Altair IV, our believing that is a somewhat different matter but we need to go into that. </i></p>
+
+<p><strong>Rated G.</strong> Contains proven impossibilities.</p>
+
+<p><b>Statement from Rachel Swirsky:</b><br/>
+Richard K. Lyon died on November 21. When I contacted him last month to ask if he still wanted this piece to run on our podcast, he said that the doctors didn&#8217;t give him long, but that he hoped this would give the world &#8220;one last laugh.&#8221;</p>
+
+<p>Escape Artists dedicates this production to his memory. We wish the best to him, and to his family.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/12/29/escape-pod-flash-standards/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash034_Standards.mp3" length="3189951" type="audio/mpeg"/>
+      <itunes:duration>4:24</itunes:duration>
+      <itunes:subtitle>by Richard K. Lyon
+Read by Frank Key (of Hooting Yard)
+
+After careful examination of your manuscript no 113785, Corbamite, An Insulator Against Gravity, the editors of ...</itunes:subtitle>
+      <itunes:summary>by Richard K. Lyon
+Read by Frank Key (of Hooting Yard)
+
+After careful examination of your manuscript no 113785, Corbamite, An Insulator Against Gravity, the editors of Review of Physics have concluded that it is not suitable for publication in this journal. This decision is final and further correspondence on this subject will serve no useful purpose.
+
+Since the above may seem somewhat harsh, let me say what I can to mitigate it. The editors do appreciate that you are working under difficult circumstances: when the senior author of a paper is deceased, it is always hard for the junior author to complete the work in an appropriate manner. Also let us assure you that we do believe you. You have told us that with his dying breath Professor Steinhardt handed you his notebook and said, "Have this published in Review of Physics." Such an action would be completely in character for Steinhardt since he was a true scientist.
+
+As for your claim that Professor Steinhardt made this statement as he was expiring from disintegrator rays wounds suffered during your escape from the City of Disembodied Brains on Altair IV, our believing that is a somewhat different matter but we need to go into that. 
+
+Rated G. Contains proven impossibilities.
+
+Statement from Rachel Swirsky:
+Richard K. Lyon died on November 21. When I contacted him last month to ask if he still wanted this piece to run on our podcast, he said that the doctors didn't give him long, but that he hoped this would give the world "one last laugh."
+
+Escape Artists dedicates this production to his memory. We wish the best to him, and to his family.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Rated,G</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP184: As Dry Leaves That Before the Wild Hurricane Fly</title>
+      <link>http://escapepod.org/2008/12/25/ep184-as-dry-leaves-that-before-the-wild-hurricane-fly/</link>
+      <comments>http://escapepod.org/2008/12/25/ep184-as-dry-leaves-that-before-the-wild-hurricane-fly/#comments</comments>
+      <pubDate>Thu, 25 Dec 2008 05:01:32 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated G]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=335</guid>
+      <description><![CDATA[By Mur Lafferty.
+Read by Christiana Ellis (of Christiana&#8217;s Shallow Thoughts, et al.). 
+Special Closing Music: &#8220;Chiron Beta Prime,&#8221; by Jonathan Coulton.
+
+Comet and Cupid were fifteen, and took after their father, both spending the most time in the workshop tinkering with Father&#8217;s tools. Christmas was coming soon and they were preparing their yearly trip to the [...]]]></description>
+      <content:encoded><![CDATA[<p><b>By <a href="http://murverse.com">Mur Lafferty</a>.</b><br />
+Read by Christiana Ellis (of <a href="http://christianaellis.com">Christiana&#8217;s Shallow Thoughts, <i>et al.</i></a>).<br/> 
+Special Closing Music: &#8220;Chiron Beta Prime,&#8221; by <a href="http://jonathancoulton.com">Jonathan Coulton</a>.</p>
+
+<p><i>Comet and Cupid were fifteen, and took after their father, both spending the most time in the workshop tinkering with Father&#8217;s tools. Christmas was coming soon and they were preparing their yearly trip to the same orphanage that had cared for them. With nine children to raise on his own, Claus could no longer adopt, but he still found it very important to care for the children in any way he could. So he took a load of toys to the children every year, with his children helping him distribute.</i></p>
+
+<p><i>Their siblings sat around their great sitting room, some crowding on sofas, some sitting on chair cushions or arms, and Rudolph, the baby at eleven, sat at his father&#8217;s feet. He was an imposing man with a barrel chest and wild white hair and beard. When he would get excited about a project, his blue eyes would twinkle and he&#8217;d look like a madman.</i></p>
+
+<p><b>Rated G</b>.  Contains Santa revisionism and aerial combat.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/12/25/ep184-as-dry-leaves-that-before-the-wild-hurricane-fly/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP184_AsDryLeaves.mp3" length="36260108" type="audio/mpeg"/>
+      <itunes:duration>50:19</itunes:duration>
+      <itunes:subtitle>By Mur Lafferty.
+Read by Christiana Ellis (of Christiana's Shallow Thoughts, et al.). 
+Special Closing Music: "Chiron Beta Prime," by Jonathan Coulton.
+
+Comet and Cupid were fifteen, ...</itunes:subtitle>
+      <itunes:summary>By Mur Lafferty.
+Read by Christiana Ellis (of Christiana's Shallow Thoughts, et al.). 
+Special Closing Music: "Chiron Beta Prime," by Jonathan Coulton.
+
+Comet and Cupid were fifteen, and took after their father, both spending the most time in the workshop tinkering with Father's tools. Christmas was coming soon and they were preparing their yearly trip to the same orphanage that had cared for them. With nine children to raise on his own, Claus could no longer adopt, but he still found it very important to care for the children in any way he could. So he took a load of toys to the children every year, with his children helping him distribute.
+
+Their siblings sat around their great sitting room, some crowding on sofas, some sitting on chair cushions or arms, and Rudolph, the baby at eleven, sat at his father's feet. He was an imposing man with a barrel chest and wild white hair and beard. When he would get excited about a project, his blue eyes would twinkle and he'd look like a madman.
+
+Rated G.  Contains Santa revisionism and aerial combat.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,G</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash Fiction Contest, Honorable Mention: Silence</title>
+      <link>http://escapepod.org/2008/12/06/escape-pod-flash-fiction-contest-honorable-mention-silence/</link>
+      <comments>http://escapepod.org/2008/12/06/escape-pod-flash-fiction-contest-honorable-mention-silence/#comments</comments>
+      <pubDate>Sat, 06 Dec 2008 05:00:28 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=329</guid>
+      <description><![CDATA[by Rachel Swirsky.
+Read by Ann Leckie.  
+
+Whatever the midwife told you, it&#8217;s not true.
+
+ 
+
+I cannot walk through  walls. I cannot conjure a chicken and make it dance or start a fire with my  fingers. I cannot shape familiars from fog or examine entrails to see if a  man will die. I cannot resurrect your [...]]]></description>
+      <content:encoded><![CDATA[<p>by <a href="http://www.rachelswirsky.com">Rachel Swirsky</a>.
+Read by <a href="http://www.annleckie.com">Ann Leckie</a>.  </p>
+
+<p><em>Whatever the midwife told you, it&#8217;s not true.</em></p>
+
+<p><em> </em></p>
+
+<p><em>I cannot walk through  walls. I cannot conjure a chicken and make it dance or start a fire with my  fingers. I cannot shape familiars from fog or examine entrails to see if a  man will die. I cannot resurrect your son.</em></p>
+
+<p><strong>Rated PG.</strong></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/12/06/escape-pod-flash-fiction-contest-honorable-mention-silence/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash033_Silence.mp3" length="2598542" type="audio/mpeg"/>
+      <itunes:duration>2:42</itunes:duration>
+      <itunes:subtitle>by Rachel Swirsky.
+Read by Ann Leckie. nbsp;
+
+Whatever the midwife told you, it's not true.
+
+ 
+
+I cannot walk through  walls. I cannot conjure a chicken ...</itunes:subtitle>
+      <itunes:summary>by Rachel Swirsky.
+Read by Ann Leckie. nbsp;
+
+Whatever the midwife told you, it's not true.
+
+ 
+
+I cannot walk through  walls. I cannot conjure a chicken and make itnbsp;dance or start a fire with my  fingers. I cannot shape familiars fromnbsp;fog or examine entrails to see if a  man will die. I cannot resurrectnbsp;your son.
+
+Rated PG.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Rated,PG,,Uncategorized</itunes:keywords>
+      <itunes:author>Rachel Swirsky</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash Fiction Contest, Honorable Mention: Hello, I Love You</title>
+      <link>http://escapepod.org/2008/12/05/escape-pod-flash-fiction-contest-honorable-mention-hello-i-love-you/</link>
+      <comments>http://escapepod.org/2008/12/05/escape-pod-flash-fiction-contest-honorable-mention-hello-i-love-you/#comments</comments>
+      <pubDate>Fri, 05 Dec 2008 05:00:33 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=330</guid>
+      <description><![CDATA[by Katherine Sparrow.
+Read by Rachel Swirsky.
+
+&#8220;Junk DNA? I&#8217;ll junk your DNA!&#8221; Sofia glared at Zorg.
+
+&#8220;Apologies. It  is only, don&#8217;t you find it interesting? Most of it is unused&#8211;&#8221;
+
+&#8220;Junk? You supercilious aliens come to Earth to rein  snottiness on us lowly humans? How sublime. I suppose your DNA is full of  Porsches?&#8221;
+
+Rated PG.
+]]></description>
+      <content:encoded><![CDATA[<p>by <a href="http://katherinesparrow.net/">Katherine Sparrow</a>.
+Read by <a href="http://www.rachelswirsky.com">Rachel Swirsky</a>.</p>
+
+<p><em>&#8220;Junk DNA? I&#8217;ll junk your DNA!&#8221; Sofia glared at Zorg.</em></p>
+
+<p><em>&#8220;Apologies. It  is only, don&#8217;t you find it interesting? Most of it is unused&#8211;&#8221;</em></p>
+
+<p><em>&#8220;Junk? You supercilious aliens come to Earth to rein  snottiness on us lowly humans? How sublime. I suppose your DNA is full of  Porsches?&#8221;</em></p>
+
+<p><strong>Rated PG.</strong></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/12/05/escape-pod-flash-fiction-contest-honorable-mention-hello-i-love-you/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash032_HelloILoveYou.mp3" length="3056219" type="audio/mpeg"/>
+      <itunes:duration>3:11</itunes:duration>
+      <itunes:subtitle>by Katherine Sparrow.
+Read by Rachel Swirsky.
+
+"Junk DNA? I'll junk your DNA!" Sofia glared at Zorg.
+
+"Apologies. It  is only, don't you find it interesting? Most ...</itunes:subtitle>
+      <itunes:summary>by Katherine Sparrow.
+Read by Rachel Swirsky.
+
+"Junk DNA? I'll junk your DNA!" Sofia glared at Zorg.
+
+"Apologies. It  is only, don't you find it interesting? Most of it is unused--"
+
+"Junk? You supercilious aliens come to Earth to rein  snottiness on us lowly humans? How sublime. I suppose your DNA is full of  Porsches?"
+
+Rated PG.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Katherine Sparrow</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash Fiction Contest, Honorable Mention: The Way Before</title>
+      <link>http://escapepod.org/2008/12/04/escape-pod-flash-fiction-contest-honorable-mention-the-way-before/</link>
+      <comments>http://escapepod.org/2008/12/04/escape-pod-flash-fiction-contest-honorable-mention-the-way-before/#comments</comments>
+      <pubDate>Thu, 04 Dec 2008 05:00:11 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated G]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=328</guid>
+      <description><![CDATA[By Anna Schwind
+Read by Ann Leckie
+
+When Chasca turned eleven, her father took her to a ship farm, to choose her  vessel.  She stood on the observation deck, evaluating the herd.  Chasca  selected the farthest ship.  It faced away from the others and bumped the edges  of the corral.  She understood. 
+
+Rated  G.
+]]></description>
+      <content:encoded><![CDATA[<p>By <a href="http://slithytoves.sytes.net/~anna/">Anna Schwind</a>
+Read by <a href="http://www.annleckie.com">Ann Leckie</a></p>
+
+<p><em>When Chasca turned eleven, her father took her to a ship farm, to choose her  vessel.  She stood on the observation deck, evaluating the herd.  Chasca  selected the farthest ship.  It faced away from the others and bumped the edges  of the corral.  She understood. </em></p>
+
+<p><strong>Rated  G.</strong></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/12/04/escape-pod-flash-fiction-contest-honorable-mention-the-way-before/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash031_TheWayBefore.mp3" length="2730204" type="audio/mpeg"/>
+      <itunes:duration>2:51</itunes:duration>
+      <itunes:subtitle>By Anna Schwind
+Read by Ann Leckie
+
+When Chasca turned eleven, her father took her to a ship farm, to choose her  vessel.nbsp; She stood on ...</itunes:subtitle>
+      <itunes:summary>By Anna Schwind
+Read by Ann Leckie
+
+When Chasca turned eleven, her father took her to a ship farm, to choose her  vessel.nbsp; She stood on the observation deck, evaluating the herd.nbsp; Chasca  selected the farthest ship.nbsp; It faced away from the others and bumped the edges  of the corral.nbsp; She understood.nbsp;
+
+Rated nbsp;G.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Rated,G</itunes:keywords>
+      <itunes:author>Anna Schwind</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash Fiction Contest, Honorable Mention: Hoarding Colored Rags</title>
+      <link>http://escapepod.org/2008/12/02/escape-pod-flash-fiction-contest-honorable-mention-hoarding-colored-rags/</link>
+      <comments>http://escapepod.org/2008/12/02/escape-pod-flash-fiction-contest-honorable-mention-hoarding-colored-rags/#comments</comments>
+      <pubDate>Wed, 03 Dec 2008 02:00:11 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=327</guid>
+      <description><![CDATA[by Jared Axelrod (of The Voice of Free Planet X).
+Read by Mike Swirsky.
+
+I remember your touch, your taste, the way your mouth curled slightly when you said my name.
+
+Rated PG. 
+]]></description>
+      <content:encoded><![CDATA[<p>by Jared Axelrod (of <a href="http://planetx.libsyn.com/">The Voice of Free Planet X</a>).
+Read by Mike Swirsky.</p>
+
+<p><em>I remember your touch, your taste, the way your mouth curled slightly when you said my name.</em></p>
+
+<p><strong>Rated PG</strong>. </p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/12/02/escape-pod-flash-fiction-contest-honorable-mention-hoarding-colored-rags/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash030_HoardingColoredRags.mp3" length="1612589" type="audio/mpeg"/>
+      <itunes:duration>1:41</itunes:duration>
+      <itunes:subtitle>by Jared Axelrod (of The Voice of Free Planet X).
+Read by Mike Swirsky.
+
+I remember your touch, your taste, the way your mouth curled slightlynbsp;when you ...</itunes:subtitle>
+      <itunes:summary>by Jared Axelrod (of The Voice of Free Planet X).
+Read by Mike Swirsky.
+
+I remember your touch, your taste, the way your mouth curled slightlynbsp;when you said my name.
+
+Rated PG.nbsp;
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Jared Axelrod</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash Fiction Contest, Honorable Mention: From Liquid to Glass</title>
+      <link>http://escapepod.org/2008/12/01/escape-pod-flash-fiction-contest-honorable-mention-from-liquid-to-glass/</link>
+      <comments>http://escapepod.org/2008/12/01/escape-pod-flash-fiction-contest-honorable-mention-from-liquid-to-glass/#comments</comments>
+      <pubDate>Mon, 01 Dec 2008 05:00:02 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated R]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=326</guid>
+      <description><![CDATA[By J. R. Blackwell.
+Read by Rachel Swirsky (of PodCastle).
+
+He smelled like new cars and cologne, he moved with a measured rhythm. His mouth tasted like mint toothpaste. She looked over his shoulder through the  white light of the window. She was sweating into her sheets, her breath  silent, and her lips thin and tight.
+
+Rated R. Contains sex [...]]]></description>
+      <content:encoded><![CDATA[<p><strong>By J. R. Blackwell.</strong><br/>
+Read by Rachel Swirsky (of <a href="http://www.podcastle.org">PodCastle</a>).</p>
+
+<p><em>He smelled like new cars and cologne, he moved with a measured rhythm. His mouth tasted like mint toothpaste. She looked over his shoulder through the  white light of the window. She was sweating into her sheets, her breath  silent, and her lips thin and tight.</em></p>
+
+<p><strong>Rated R.</strong> Contains sex and melancholia.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/12/01/escape-pod-flash-fiction-contest-honorable-mention-from-liquid-to-glass/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash029_FromLiquidToGlass.mp3" length="1216336" type="audio/mpeg"/>
+      <itunes:duration>1:40</itunes:duration>
+      <itunes:subtitle>By J. R. Blackwell.
+Read by Rachel Swirsky (of PodCastle).
+
+He smelled like new cars andnbsp;cologne, he moved with a measured rhythm. His mouth tasted like mintnbsp;toothpaste. ...</itunes:subtitle>
+      <itunes:summary>By J. R. Blackwell.
+Read by Rachel Swirsky (of PodCastle).
+
+He smelled like new cars andnbsp;cologne, he moved with a measured rhythm. His mouth tasted like mintnbsp;toothpaste. She looked over his shoulder through the  white light ofnbsp;the window. She was sweating into her sheets, her breath  silent, andnbsp;her lips thin and tight.
+
+Rated R. Contains sex and melancholia.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Rated,R</itunes:keywords>
+      <itunes:author>J. R. Blackwell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash Fiction Contest, Third Place: Karakuri</title>
+      <link>http://escapepod.org/2008/11/29/escape-pod-flash-fiction-contest-third-place-karakuri/</link>
+      <comments>http://escapepod.org/2008/11/29/escape-pod-flash-fiction-contest-third-place-karakuri/#comments</comments>
+      <pubDate>Sat, 29 Nov 2008 13:00:26 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=325</guid>
+      <description><![CDATA[By Gideon Fostick.
+Read by Dave Leckie.
+
+Bill had no heart for this Karakuri, left behind in the empty house when his love had gone. Small and exquisite, propped at an angle on the tatami floor mat, it was the toughest puzzle he&#8217;d known. 
+
+Rated PG. Contains puzzles.
+]]></description>
+      <content:encoded><![CDATA[<p><strong>By Gideon Fostick.</strong><br/>
+Read by Dave Leckie.</p>
+
+<p>Bill had no heart for this <em>Karakuri</em>, left behind in the empty house when his love had gone. Small and exquisite, propped at an angle on the tatami floor mat, it was the toughest puzzle he&#8217;d known. </p>
+
+<p><strong>Rated PG.</strong> Contains puzzles.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/11/29/escape-pod-flash-fiction-contest-third-place-karakuri/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash028_Karakuri.mp3" length="2067999" type="audio/mpeg"/>
+      <itunes:duration>2:51</itunes:duration>
+      <itunes:subtitle>By Gideon Fostick.
+Read by Dave Leckie.
+
+Bill had no heart for thisnbsp;Karakuri, left behind in the empty house whennbsp;his love had gone. Small and exquisite, propped ...</itunes:subtitle>
+      <itunes:summary>By Gideon Fostick.
+Read by Dave Leckie.
+
+Bill had no heart for thisnbsp;Karakuri, left behind in the empty house whennbsp;his love had gone. Small and exquisite, propped at an angle on thenbsp;tatami floor mat, it was the toughest puzzle he'd known.nbsp;
+
+Rated PG. Contains puzzles.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts</itunes:keywords>
+      <itunes:author>Gideon Fostick</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Escape Pod Flash Fiction Contest, Second Place: Skyscrapers</title>
+      <link>http://escapepod.org/2008/11/28/escape-pod-flash-fiction-contest-second-place-skyscrapers/</link>
+      <comments>http://escapepod.org/2008/11/28/escape-pod-flash-fiction-contest-second-place-skyscrapers/#comments</comments>
+      <pubDate>Fri, 28 Nov 2008 18:00:54 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <category><![CDATA[Shoutouts]]></category>
+      <category><![CDATA[Site News]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=324</guid>
+      <description><![CDATA[by Rachel Swirsky
+read by Ann Leckie
+
+Summers, I sleep on rooftops. Under smokestacks, beside stairs, in the sudden  green of precarious gardens.
+
+Rated PG. Contains mythical figures.
+]]></description>
+      <content:encoded><![CDATA[<p>by <a href="http://www.rachelswirsky.com">Rachel Swirsky</a><br/>
+read by <a href="http://www.annleckie.com">Ann Leckie</a></p>
+
+<p><em>Summers, I sleep on rooftops. Under smokestacks, beside stairs, in the sudden  green of precarious gardens.</em></p>
+
+<p><strong>Rated PG.</strong> Contains mythical figures.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/11/28/escape-pod-flash-fiction-contest-second-place-skyscrapers/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash027_Skyscrapers.mp3" length="2096211" type="audio/mpeg"/>
+      <itunes:duration>2:53</itunes:duration>
+      <itunes:subtitle>by Rachel Swirsky
+read by Ann Leckie
+
+Summers, I sleep on rooftops. Under smokestacks, beside stairs, in thenbsp;sudden  green of precarious gardens.
+
+Rated PG. Contains mythical figures.
+ </itunes:subtitle>
+      <itunes:summary>by Rachel Swirsky
+read by Ann Leckie
+
+Summers, I sleep on rooftops. Under smokestacks, beside stairs, in thenbsp;sudden  green of precarious gardens.
+
+Rated PG. Contains mythical figures.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts,,Rated,PG,,Shoutouts,,Site,News</itunes:keywords>
+      <itunes:author>Rachel Swirsky</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP Flash Fiction Contest Winner: Mission to Dover</title>
+      <link>http://escapepod.org/2008/11/26/escape-pod-flash-fiction-contest-winner-mission-to-dover/</link>
+      <comments>http://escapepod.org/2008/11/26/escape-pod-flash-fiction-contest-winner-mission-to-dover/#comments</comments>
+      <pubDate>Wed, 26 Nov 2008 21:40:21 +0000</pubDate>
+      <dc:creator>Rachel</dc:creator>
+      <category><![CDATA[Flash]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=323</guid>
+      <description><![CDATA[by Gideon Fostick.
+Read by Lyle Merithew. 
+
+Escape Pod sends its congratulations to Gideon Fostick for winning first place in the Escape Pod flash fiction contest for stories under 300 words.
+
+Professor Seiferd materialized in full command of his faculties. He  oriented immediately on the white cliffs of Dover, towering over the English  Channel. He felt the weight [...]]]></description>
+      <content:encoded><![CDATA[<p>by Gideon Fostick.<br/>
+Read by Lyle Merithew. </p>
+
+<p>Escape Pod sends its congratulations to Gideon Fostick for winning first place in the Escape Pod flash fiction contest for stories under 300 words.</p>
+
+<p><em>Professor Seiferd materialized in full command of his faculties. He  oriented immediately on the white cliffs of Dover, towering over the English  Channel. He felt the weight of his mission: he must answer the question that  was vital to the Fatherland.</em></p>
+
+<p><strong>Rated G. </strong>Contains Nazis.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/11/26/escape-pod-flash-fiction-contest-winner-mission-to-dover/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EPFlash026_MissionToDover.mp3" length="2054206" type="audio/mpeg"/>
+      <itunes:duration>2:49</itunes:duration>
+      <itunes:subtitle>by Gideon Fostick.
+Read by Lyle Merithew.nbsp;
+
+Escape Pod sends its congratulations to Gideon Fostick for winning first place in the Escape Pod flash fiction contest for ...</itunes:subtitle>
+      <itunes:summary>by Gideon Fostick.
+Read by Lyle Merithew.nbsp;
+
+Escape Pod sends its congratulations to Gideon Fostick for winning first place in the Escape Pod flash fiction contest for stories under 300 words.
+
+Professor Seiferd materialized in full command of his faculties. He  orientednbsp;immediately on the white cliffs of Dover, towering over the English  Channel.nbsp;He felt the weight of his mission: he must answer the question that  wasnbsp;vital to the Fatherland.
+
+Rated G. Contains Nazis.
+</itunes:summary>
+      <itunes:keywords>Flash,,Podcasts</itunes:keywords>
+      <itunes:author>Gideon Fostick</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP Metacast #4</title>
+      <link>http://escapepod.org/2008/11/24/ep-metacast-4/</link>
+      <comments>http://escapepod.org/2008/11/24/ep-metacast-4/#comments</comments>
+      <pubDate>Mon, 24 Nov 2008 06:41:51 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Bonus]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Site News]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=322</guid>
+      <description><![CDATA[In which more is said about the hiatus.
+
+Referenced Sites:
+Eulogy for Bicky Eley
+PodCastle
+]]></description>
+      <content:encoded><![CDATA[<p>In which more is said about the hiatus.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://sfeley.livejournal.com/79835.html">Eulogy for Bicky Eley</a><br />
+<a href="http://podcastle.org">PodCastle</a></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/11/24/ep-metacast-4/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP_Metacast004.mp3" length="2635415" type="audio/mpeg"/>
+      <itunes:duration>3:38</itunes:duration>
+      <itunes:subtitle>In which more is said about the hiatus.
+
+Referenced Sites:
+Eulogy for Bicky Eley
+PodCastle
+ </itunes:subtitle>
+      <itunes:summary>In which more is said about the hiatus.
+
+Referenced Sites:
+Eulogy for Bicky Eley
+PodCastle
+</itunes:summary>
+      <itunes:keywords>Bonus,,Podcasts,,Site,News</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>On Hiatus</title>
+      <link>http://escapepod.org/2008/11/13/on-hiatus/</link>
+      <comments>http://escapepod.org/2008/11/13/on-hiatus/#comments</comments>
+      <pubDate>Thu, 13 Nov 2008 04:17:19 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Site News]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=321</guid>
+      <description><![CDATA[Folks:
+
+Summary first.  Escape Pod is going to miss its weekly releases for the remainder of November.  We will resume in December, probably the first week.
+
+Now the explanation.
+
+
+I suppose I could just say that I&#8217;m writing this just prior to leaving for my grandmother&#8217;s funeral.  She died a few weeks ago, and the [...]]]></description>
+      <content:encoded><![CDATA[<p>Folks:</p>
+
+<p>Summary first.  Escape Pod is going to miss its weekly releases for the remainder of November.  We will resume in December, probably the first week.</p>
+
+<p>Now the explanation.
+<span id="more-321"></span></p>
+
+<p>I suppose I could just say that I&#8217;m writing this just prior to leaving for my grandmother&#8217;s funeral.  She died a few weeks ago, and the memorial service is taking place in New Jersey this weekend.  That would be sufficient excuse to miss a week by almost anyone&#8217;s reckoning.  Add in a tough new day job,  lingering physical illness, and unstable brain chemistry, and I could really play for some sympathy here.  But it isn&#8217;t the complete picture.</p>
+
+<p>The fact is that I need some time.  I need to get regrounded, for my own health and also for the good of Escape Pod.  Since May of 2005 we have not missed a week, and I&#8217;ve been very proud &#8212; perhaps hubristic &#8212; of having one of the longest uninterrupted runs in podcasting.  We&#8217;ve achieved some amazing things almost by accident: we&#8217;ve become the number two SF market with about 25,000 listeners, we&#8217;ve brought attention to incredible stories by previously unknown authors, and we&#8217;ve grown into a real business with two additional podcasts.  From a strategic point of view we&#8217;re doing all right.  We&#8217;re not totally where I wanted to be by now, but fundamentally we&#8217;re succeeding.</p>
+
+<p>But tactically, with Escape Pod in particular, I&#8217;ve been flying way too close to the ground.  It&#8217;s been week-to-week and barely controlled chaos for a really long time now.  My communication&#8217;s always been behind, but now it&#8217;s by months.  The releases keep slipping, and sometimes I don&#8217;t know on Monday what the week&#8217;s story will be.  It&#8217;s been costing me more sleep than usual.  These are resolvable issues; I have a nice clear to-do list of obvious things that would make my job a lot easier.  (&#8221;Better delegation&#8221; covers about half the list.)  But I haven&#8217;t been stepping back to do any of them.  Even when I have the time, it&#8217;s been hard to muster the energy.</p>
+
+<p>Most of all, I&#8217;m afraid of losing my perspective.  For a while now I&#8217;ve been pushing myself so hard on EP that it&#8217;s close to becoming more Not Fun than Fun.  I&#8217;m in danger of forgetting why I&#8217;m doing it.  And <i>that</i> is not something I can permit.  If I lose my own passion for the stories, I know I won&#8217;t be the only one who suffers.  That&#8217;s the point at which the podcast will start to suck.</p>
+
+<p>So I&#8217;m doing a very, <i>very</i> difficult thing right now for the sake of long-term success: I&#8217;m letting myself fail for a few weeks.  I&#8217;m taking a breather, relaxing a bit, and trying to forgive myself for doing it.  I&#8217;m going to do right by my grandmother, and then I&#8217;m going to take a few days to just chill, and <i>then</i> I&#8217;m going to see what I need to do to get organized and get on top of the game again.</p>
+
+<p>I know it&#8217;s risky to pin such things to a schedule.  But I&#8217;m pretty confident in the range of this hiatus: it will not be less than two weeks, and it should not be more than four.  The smart money&#8217;s on three weeks, putting us back on in the first week of December.  We already have some great stuff pending.  We have the next Union Dues story, and in my opinion it&#8217;s the best one yet.  We have a fantastic alien world story from this year&#8217;s Cambpell Award winner, Mary Robinette Kowal.  And Mur Lafferty is preparing what may be the most kickass science fiction Christmas story ever.  I promise you we&#8217;ll be back soon, because dammit, <b><i>I</i></b> want to hear those things in audio.</p>
+
+<p>Two logistical points:</p>
+
+<p>First, <a href="http://podcastle.org">PodCastle</a> and <a href="http://pseudopod.org">Pseudopod</a> aren&#8217;t affected.  Rachel and Ann and Ben and Al are totally in the groove, and Escape Artists as a company is doing fine.  This announcement only affects Escape Pod.  So you&#8217;ve still got a short fiction fix, and if those aren&#8217;t enough, feel free to <a href="http://drabblecast.org">check</a> <a href="http://clonepod.org">out</a> <a href="http://dunesteef.com">some</a> <a href="http://welltoldtales.com">others</a>.</p>
+
+<p>Second, I&#8217;m well aware that donors have a pretty good reason to be upset.  You&#8217;re giving your money on an article of faith, after all &#8212; that we&#8217;ll use it to keep bringing you stories &#8212; and if we&#8217;re not bringing them to you, even temporarily, we&#8217;re not keeping that trust.  We&#8217;ve recently had some <i>very</i> substantial donations, ones which I have yet to send proper thank-you messages for.  (Those are coming too.)  I&#8217;m hoping most of you will be cool with my reasoning here and bear with us.  But if you&#8217;ve donated in the past few months and you object to this hiatus, e-mail me from your PayPal address and let me know, and I will refund your money to you, no questions asked.  I would honestly rather keep your goodwill than your cash.</p>
+
+<p>&#8230;So there you have it.  That&#8217;s the honest explanation of what&#8217;s going on, as best I can state it.  I&#8217;ll be spending the next few weeks gathering my wits, my priorities, and a team, probably in that order.  And then you&#8217;ll have more stories.  We&#8217;ll be back soon.  In the meantime, thank you for any patience you&#8217;re willing to give.</p>
+
+<p>And of course: Have Fun.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/11/13/on-hiatus/feed/</wfw:commentRss>
+    </item>
+    <item>
+      <title>EP183: Beans and Marbles</title>
+      <link>http://escapepod.org/2008/11/09/ep183-beans-and-marbles/</link>
+      <comments>http://escapepod.org/2008/11/09/ep183-beans-and-marbles/#comments</comments>
+      <pubDate>Sun, 09 Nov 2008 20:35:00 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated R]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=319</guid>
+      <description><![CDATA[(Update: Reposted with editing mistakes corrected.  My apologies for the errors.)
+
+By Floris M. Kleijne.
+Read by Stephen Eley.
+First appeared in Andromeda Spaceways Inflight Magazine, August 2005.
+
+When Flight Control assigned us utility privileges, I don&#8217;t think they
+expected me to brew espresso in the centrifugal head. But the weight of the
+espresso machine was well within the parameters [...]]]></description>
+      <content:encoded><![CDATA[<p><i>(<b>Update:</b> Reposted with editing mistakes corrected.  My apologies for the errors.)</i></p>
+
+<p><b><a href="http://www.floriskleijne.nl/">By Floris M. Kleijne.</a></b><br />
+Read by Stephen Eley.<br/>
+First appeared in <a href="http://www.andromedaspaceways.com/"><i>Andromeda Spaceways Inflight Magazine</i></a>, August 2005.</p>
+
+<p><i>When Flight Control assigned us utility privileges, I don&#8217;t think they
+expected me to brew espresso in the centrifugal head. But the weight of the
+espresso machine was well within the parameters they&#8217;d set, as was my use of
+a couple of ounces of fresh water and a fraction of the ship&#8217;s power supply
+each day, so there was nothing, really, they could say or do about it.
+Privileges are privileges, and if the purpose was to give both of us
+something to keep us happy, it worked for me. My morning espresso ritual
+kept me sane. I looked forward to it every day.</i></p>
+
+<p><i>Richard, however, wasn&#8217;t quite as tolerant as Flight Control.</i></p>
+
+<p><b>Rated R</b>.  Contains violence, strong language, and disturbed individuals.  Who use strong language and violence.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/11/09/ep183-beans-and-marbles/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP183_BeansAndMarbles_new.mp3" length="27935858" type="audio/mpeg"/>
+      <itunes:duration>38:46</itunes:duration>
+      <itunes:subtitle>(Update: Reposted with editing mistakes corrected.  My apologies for the errors.)
+
+By Floris M. Kleijne.
+Read by Stephen Eley.
+First appeared in Andromeda Spaceways Inflight Magazine, August ...</itunes:subtitle>
+      <itunes:summary>(Update: Reposted with editing mistakes corrected.  My apologies for the errors.)
+
+By Floris M. Kleijne.
+Read by Stephen Eley.
+First appeared in Andromeda Spaceways Inflight Magazine, August 2005.
+
+When Flight Control assigned us utility privileges, I don't think they
+expected me to brew espresso in the centrifugal head. But the weight of the
+espresso machine was well within the parameters they'd set, as was my use of
+a couple of ounces of fresh water and a fraction of the ship's power supply
+each day, so there was nothing, really, they could say or do about it.
+Privileges are privileges, and if the purpose was to give both of us
+something to keep us happy, it worked for me. My morning espresso ritual
+kept me sane. I looked forward to it every day.
+
+Richard, however, wasn't quite as tolerant as Flight Control.
+
+Rated R.  Contains violence, strong language, and disturbed individuals.  Who use strong language and violence.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP182: The Story of the Late Mr. Elvesham</title>
+      <link>http://escapepod.org/2008/11/01/ep182-the-story-of-the-late-mr-elvesham/</link>
+      <comments>http://escapepod.org/2008/11/01/ep182-the-story-of-the-late-mr-elvesham/#comments</comments>
+      <pubDate>Sat, 01 Nov 2008 22:15:13 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=318</guid>
+      <description><![CDATA[By H.G. Wells.
+Read by Alasdair Stuart (of Pseudopod).
+
+&#8220;I must tell you, then, that I am an old man, a very old man.&#8221; He paused momentarily. &#8220;And it happens that I have money that I must presently be leaving, and never a child have I to leave it to.&#8221; I thought of the confidence trick, and [...]]]></description>
+      <content:encoded><![CDATA[<p><b>By H.G. Wells.</b><br />
+Read by Alasdair Stuart (of <a href="http://pseudopod.org/">Pseudopod</a>).<br/></p>
+
+<p><i>&#8220;I must tell you, then, that I am an old man, a very old man.&#8221; He paused momentarily. &#8220;And it happens that I have money that I must presently be leaving, and never a child have I to leave it to.&#8221; I thought of the confidence trick, and resolved I would be on the alert for the vestiges of my five hundred pounds. He proceeded to enlarge on his loneliness, and the trouble he had to find a proper disposition of his money. &#8220;I have weighed this plan and that plan, charities, institutions, and scholarships, and libraries, and I have come to this conclusion at last,&#8221;&#8211;he fixed his eyes on my face,&#8211;&#8221;that I will find some young fellow, ambitious, pure-minded, and poor, healthy in body and healthy in mind, and, in short, make him my heir, give him all that I have.&#8221; He repeated, &#8220;Give him all that I have. So that he will suddenly be lifted out of all the trouble and struggle in which his sympathies have been educated, to freedom and influence.&#8221;</i></p>
+
+<p><i>I tried to seem disinterested. With a transparent hypocrisy I said, &#8220;And you want my help, my professional services maybe, to find that person.&#8221;</i></p>
+
+<p><i>He smiled, and looked at me over his cigarette, and I laughed at his quiet exposure of my modest pretence.</i></p>
+
+<p><b>Rated PG</b>.  Kids, don&#8217;t do drugs.  Also, some profanity in the outro.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/11/01/ep182-the-story-of-the-late-mr-elvesham/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP182_LateMrElvesham.mp3" length="32545421" type="audio/mpeg"/>
+      <itunes:duration>45:10</itunes:duration>
+      <itunes:subtitle>By H.G. Wells.
+Read by Alasdair Stuart (of Pseudopod).
+
+"I must tell you, then, that I am an old man, a very old man." He paused momentarily. ...</itunes:subtitle>
+      <itunes:summary>By H.G. Wells.
+Read by Alasdair Stuart (of Pseudopod).
+
+"I must tell you, then, that I am an old man, a very old man." He paused momentarily. "And it happens that I have money that I must presently be leaving, and never a child have I to leave it to." I thought of the confidence trick, and resolved I would be on the alert for the vestiges of my five hundred pounds. He proceeded to enlarge on his loneliness, and the trouble he had to find a proper disposition of his money. "I have weighed this plan and that plan, charities, institutions, and scholarships, and libraries, and I have come to this conclusion at last,"--he fixed his eyes on my face,--"that I will find some young fellow, ambitious, pure-minded, and poor, healthy in body and healthy in mind, and, in short, make him my heir, give him all that I have." He repeated, "Give him all that I have. So that he will suddenly be lifted out of all the trouble and struggle in which his sympathies have been educated, to freedom and influence."
+
+I tried to seem disinterested. With a transparent hypocrisy I said, "And you want my help, my professional services maybe, to find that person."
+
+He smiled, and looked at me over his cigarette, and I laughed at his quiet exposure of my modest pretence.
+
+Rated PG.  Kids, don't do drugs.  Also, some profanity in the outro.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>H.G. Wells</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP181: Resistance</title>
+      <link>http://escapepod.org/2008/10/25/ep181-resistance/</link>
+      <comments>http://escapepod.org/2008/10/25/ep181-resistance/#comments</comments>
+      <pubDate>Sat, 25 Oct 2008 23:00:44 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <category><![CDATA[Uncategorized]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=317</guid>
+      <description><![CDATA[By Tobias S. Buckell.
+Read by Stephen Eley.
+First appeared in Seeds of Change, ed. John Joseph Adams
+
+Audible.com Metatropolis Promotion!
+Download the first story from Metatropolis free at: http://audible.com/metapod
+
+The man opened the pack all the way to reveal a small arsenal of guns, grenades, explosives, and &#8212; oddly &#8212; knives. Very large knives. He looked up at Stanuel. [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://tobiasbuckell.com/">By Tobias S. Buckell.</a></b><br />
+Read by Stephen Eley.<br/>
+First appeared in <a href="http://www.amazon.com/gp/product/0809573105?ie=UTF8&#038;tag=escapepod-20&#038;creativeASIN=0809573105"><i>Seeds of Change</i></a>, ed. John Joseph Adams</p>
+
+<p><b>Audible.com <i>Metatropolis</i> Promotion!</b><br/>
+Download the first story from <i>Metatropolis</i> free at: <a href="http://audible.com/metapod">http://audible.com/metapod</a></p>
+
+<p><i>The man opened the pack all the way to reveal a small arsenal of guns, grenades, explosives, and &#8212; oddly &#8212; knives. Very large knives. He looked up at Stanuel. &#8220;I <b>am</b> the attack. I&#8217;ve been asked to shut Pan down.&#8221;</i></p>
+
+<p><i>&#8220;But you&#8217;re not a programmer&#8230;&#8221;</i></p>
+
+<p><i>&#8220;I can do all things through explosives, who destroy for me.&#8221; The man began moving the contents of the pack inside the pockets and straps of the trenchcoat, clipped more to his belt and thigh, as well as to holsters under each arm, and then added pieces to his ankles.</i></p>
+
+<p><i>He was now a walking arsenal.</i></p>
+
+<p><i>But only half the pack had been emptied. The mysterious mercenary tossed it at Stanuel. &#8220;Besides, you&#8217;re going to help.&#8221;</i></p>
+
+<p><b>Rated PG</b>.  Contains violence and political revolution.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/10/25/ep181-resistance/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP181_Resistance.mp3" length="34416204" type="audio/mpeg"/>
+      <itunes:duration>47:46</itunes:duration>
+      <itunes:subtitle>By Tobias S. Buckell.
+Read by Stephen Eley.
+First appeared in Seeds of Change, ed. John Joseph Adams
+
+Audible.com Metatropolis Promotion!
+Download the first story from Metatropolis free at: ...</itunes:subtitle>
+      <itunes:summary>By Tobias S. Buckell.
+Read by Stephen Eley.
+First appeared in Seeds of Change, ed. John Joseph Adams
+
+Audible.com Metatropolis Promotion!
+Download the first story from Metatropolis free at: http://audible.com/metapod
+
+The man opened the pack all the way to reveal a small arsenal of guns, grenades, explosives, and -- oddly -- knives. Very large knives. He looked up at Stanuel. "I am the attack. I've been asked to shut Pan down."
+
+"But you're not a programmer..."
+
+"I can do all things through explosives, who destroy for me." The man began moving the contents of the pack inside the pockets and straps of the trenchcoat, clipped more to his belt and thigh, as well as to holsters under each arm, and then added pieces to his ankles.
+
+He was now a walking arsenal.
+
+But only half the pack had been emptied. The mysterious mercenary tossed it at Stanuel. "Besides, you're going to help."
+
+Rated PG.  Contains violence and political revolution.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG,,Uncategorized</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP180: Navy Brat</title>
+      <link>http://escapepod.org/2008/10/17/ep180-navy-brat/</link>
+      <comments>http://escapepod.org/2008/10/17/ep180-navy-brat/#comments</comments>
+      <pubDate>Fri, 17 Oct 2008 22:40:44 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=316</guid>
+      <description><![CDATA[By Kay Kenyon.
+Read by Dani Cutler (of Truth Seekers).
+First appeared in Space Cadets, ed. Mike Resnick, as &#8220;Tall Enough For Navy&#8221;
+
+She pushed off when her turn came, floating into the huge hold where she had to keep her line from tangling with other lines and stay alert for the seniors whose job it was to [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.kaykenyon.com/">By Kay Kenyon.</a></b><br />
+Read by Dani Cutler (of <a href="http://audioaddicts.libsyn.com/">Truth Seekers</a>).<br/>
+First appeared in <a href="http://www.amazon.com/Space-Cadets-Edited-Mike-Resnick/dp/0963309919/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1224282321&#038;sr=8-1"><i>Space Cadets</i></a>, ed. Mike Resnick, as &#8220;Tall Enough For Navy&#8221;</p>
+
+<p><i>She pushed off when her turn came, floating into the huge hold where she had to keep her line from tangling with other lines and stay alert for the seniors whose job it was to kill you—with their dye guns. In the Well, as throughout the ship, patches of enlivened hulls showed the view of near space through remote sensing. Here in the Well it was disorienting. Marie went into a tumble, then controlled it with a spray from her back pack. Through her enhanced visor, she could see her own team, spread out, their suits clear to her, but not to the seniors. A few of her team wore blue arm bands, not regulation, but overlooked more and more these days. Blue for the Admiral, blue for veneration—blue for sucking up to the brass.</i></p>
+
+<p><b>Rated PG</b>.  It&#8217;s YA military SF.  Does contain some lewd conduct.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/10/17/ep180-navy-brat/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP180_NavyBrat.mp3" length="17787899" type="audio/mpeg"/>
+      <itunes:duration>24:40</itunes:duration>
+      <itunes:subtitle>By Kay Kenyon.
+Read by Dani Cutler (of Truth Seekers).
+First appeared in Space Cadets, ed. Mike Resnick, as "Tall Enough For Navy"
+
+She pushed off when her ...</itunes:subtitle>
+      <itunes:summary>By Kay Kenyon.
+Read by Dani Cutler (of Truth Seekers).
+First appeared in Space Cadets, ed. Mike Resnick, as "Tall Enough For Navy"
+
+She pushed off when her turn came, floating into the huge hold where she had to keep her line from tangling with other lines and stay alert for the seniors whose job it was to kill youmdash;with their dye guns. In the Well, as throughout the ship, patches of enlivened hulls showed the view of near space through remote sensing. Here in the Well it was disorienting. Marie went into a tumble, then controlled it with a spray from her back pack. Through her enhanced visor, she could see her own team, spread out, their suits clear to her, but not to the seniors. A few of her team wore blue arm bands, not regulation, but overlooked more and more these days. Blue for the Admiral, blue for venerationmdash;blue for sucking up to the brass.
+
+Rated PG.  It's YA military SF.  Does contain some lewd conduct.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Kay Kenyon</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP179: Arties Aren’t Stupid</title>
+      <link>http://escapepod.org/2008/10/11/ep179-arties-arent-stupid/</link>
+      <comments>http://escapepod.org/2008/10/11/ep179-arties-arent-stupid/#comments</comments>
+      <pubDate>Sun, 12 Oct 2008 02:30:07 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=315</guid>
+      <description><![CDATA[By Jeremiah Tolbert.
+Read by Philippa Ballantine (of Chasing the Bard).
+First appeared in Seeds of Change, ed. John Joseph Adams
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+Nobody went home to their Elderfolk while we waited for Niles to come back.  That was a rule.  If Niles never came back, then we wouldn&#8217;t have to.  [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.jeremiahtolbert.com/">By Jeremiah Tolbert.</a></b><br />
+Read by Philippa Ballantine (of <a href="http://www.chasingthebard.com/">Chasing the Bard</a>).<br/>
+First appeared in <a href="http://www.amazon.com/gp/product/0809573105?ie=UTF8&#038;tag=escapepod-20&#038;creativeASIN=0809573105"><i>Seeds of Change</i></a>, ed. John Joseph Adams</p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>Nobody went home to their Elderfolk while we waited for Niles to come back.  That was a rule.  If Niles never came back, then we wouldn&#8217;t have to.  Nobody wanted to see the meanies anyway.  They had us Made and then hated us afterwards, which wasn&#8217;t fair.  All arties know you love the things you Make no matter what.  But Elderfolk were just-plains all grown up and they didn&#8217;t make any sense at all.  Some of the younger arties started to talk about going back, but we older arties who knew Niles better said no, that we&#8217;d wait.</i></p>
+
+<p><i>Three days passed before Niles came back.  It was dark and everyone was sleeping but me, because little Boo&#8217;s music itched in my brain.  He came in carrying big boxes, and I cried big tears of happy at that.  He&#8217;d brought some new supplies, and we&#8217;d be Making again in no time flat.  I watched him for a while, carrying in box after box, and finally I fell asleep.  It felt good knowing he was back.</i></p>
+
+<p><b>Rated PG</b>.  Contains some harsh slang and violence against the system.</p>
+
+<p><b>Referenced Sites:</b><br/>
+<a href="http://clockpunk.com">The Dispatches of Dr. Roundbottom</a><br/>
+<a href="http://pjballantine.net">Philippa Ballantine&#8217;s official site</a></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/10/11/ep179-arties-arent-stupid/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP179_ArtiesArentStupid.mp3" length="26424624" type="audio/mpeg"/>
+      <itunes:duration>36:40</itunes:duration>
+      <itunes:subtitle>By Jeremiah Tolbert.
+Read by Philippa Ballantine (of Chasing the Bard).
+First appeared in Seeds of Change, ed. John Joseph Adams
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+Nobody ...</itunes:subtitle>
+      <itunes:summary>By Jeremiah Tolbert.
+Read by Philippa Ballantine (of Chasing the Bard).
+First appeared in Seeds of Change, ed. John Joseph Adams
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+Nobody went home to their Elderfolk while we waited for Niles to come back.  That was a rule.  If Niles never came back, then we wouldn't have to.  Nobody wanted to see the meanies anyway.  They had us Made and then hated us afterwards, which wasn't fair.  All arties know you love the things you Make no matter what.  But Elderfolk were just-plains all grown up and they didn't make any sense at all.  Some of the younger arties started to talk about going back, but we older arties who knew Niles better said no, that we'd wait.
+
+Three days passed before Niles came back.  It was dark and everyone was sleeping but me, because little Boo's music itched in my brain.  He came in carrying big boxes, and I cried big tears of happy at that.  He'd brought some new supplies, and we'd be Making again in no time flat.  I watched him for a while, carrying in box after box, and finally I fell asleep.  It felt good knowing he was back.
+
+Rated PG.  Contains some harsh slang and violence against the system.
+
+Referenced Sites:
+The Dispatches of Dr. Roundbottom
+Philippa Ballantine's official site
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Jeremiah Tolbert</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP178: Unlikely</title>
+      <link>http://escapepod.org/2008/10/05/ep178-unlikely/</link>
+      <comments>http://escapepod.org/2008/10/05/ep178-unlikely/#comments</comments>
+      <pubDate>Sun, 05 Oct 2008 07:41:09 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=314</guid>
+      <description><![CDATA[By Will McIntosh.
+Read by Stephen Eley.
+First appeared in Asimov&#8217;s, January 2008.
+Special closing music: &#8220;Mandelbrot Set&#8221; by Jonathan Coulton.
+
+&#8220;The mayor seems to believe there&#8217;s something to this,&#8221; Tuesday said.
+
+&#8220;He&#8217;s desperate.  Clutching at straws.&#8221;
+
+&#8220;So why did you agree to meet?&#8221; Tuesday asked, her Keds back on the
+black and white tile floor.
+
+Samuel paused while the waitress plunked [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.willmcintosh.com/">By Will McIntosh.</a></b><br />
+Read by Stephen Eley.<br/>
+First appeared in <a href="http://asimovs.com">Asimov&#8217;s</a>, January 2008.<br/>
+<em>Special closing music:</em> &#8220;Mandelbrot Set&#8221; by <a href="http://jonathancoulton.com">Jonathan Coulton</a>.</p>
+
+<p><em>&#8220;The mayor seems to believe there&#8217;s something to this,&#8221; Tuesday said.</p>
+
+<p>&#8220;He&#8217;s desperate.  Clutching at straws.&#8221;</p>
+
+<p>&#8220;So why did you agree to meet?&#8221; Tuesday asked, her Keds back on the
+black and white tile floor.</p>
+
+<p>Samuel paused while the waitress plunked down two glasses, followed by
+big metal milk shake tumblers.  His strawberry milkshake looked as thick
+as cement.  Damn, did he love this place.</p>
+
+<p>&#8220;Professor Berry said there was an easy way to prove him wrong: meet
+with you on and off for a week.  If the city&#8217;s accident rate didn&#8217;t go
+down when we were together, and back up when we were apart, he&#8217;d return
+his consulting fee to the city.&#8221;  The shake made a satisfying plopping
+sound as he poured it into the glass.  &#8220;His ideas are wacked.  &#8216;Data
+mining for non-intuitive connections?&#8217;  You can smell the bullshit from
+three pastures away.&#8221; </em></p>
+
+<p><b>Rated PG</b>.  Contains profanity.  Including in the closing song.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/10/05/ep178-unlikely/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP178_Unlikely.mp3" length="27233047" type="audio/mpeg"/>
+      <itunes:duration>37:48</itunes:duration>
+      <itunes:subtitle>By Will McIntosh.
+Read by Stephen Eley.
+First appeared in Asimov's, January 2008.
+Special closing music: "Mandelbrot Set" by Jonathan Coulton.
+
+"The mayor seems to believe there's something to ...</itunes:subtitle>
+      <itunes:summary>By Will McIntosh.
+Read by Stephen Eley.
+First appeared in Asimov's, January 2008.
+Special closing music: "Mandelbrot Set" by Jonathan Coulton.
+
+"The mayor seems to believe there's something to this," Tuesday said.
+
+"He's desperate.  Clutching at straws."
+
+"So why did you agree to meet?" Tuesday asked, her Keds back on the
+black and white tile floor.
+
+Samuel paused while the waitress plunked down two glasses, followed by
+big metal milk shake tumblers.  His strawberry milkshake looked as thick
+as cement.  Damn, did he love this place.
+
+"Professor Berry said there was an easy way to prove him wrong: meet
+with you on and off for a week.  If the city's accident rate didn't go
+down when we were together, and back up when we were apart, he'd return
+his consulting fee to the city."  The shake made a satisfying plopping
+sound as he poured it into the glass.  "His ideas are wacked.  'Data
+mining for non-intuitive connections?'  You can smell the bullshit from
+three pastures away." 
+
+Rated PG.  Contains profanity.  Including in the closing song.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Will McIntosh</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP177: Usurpers</title>
+      <link>http://escapepod.org/2008/09/27/ep177-usurpers/</link>
+      <comments>http://escapepod.org/2008/09/27/ep177-usurpers/#comments</comments>
+      <pubDate>Sat, 27 Sep 2008 19:15:12 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=313</guid>
+      <description><![CDATA[By Derek Zumsteg.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+King spots a knock-off cluster, glowing sunny in the rain, too fit, perfectly proportioned. Tear off some burnished bronze, never-burning skin. Shove it under a microscope, see the designer signature, Chinese characters like tattoos on the necks of college girls.
+
+All ten ranked cross-country runners [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.zumsteg.net/">By Derek Zumsteg.</a></b><br />
+Read by Stephen Eley.<br/></p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>King spots a knock-off cluster, glowing sunny in the rain, too fit, perfectly proportioned. Tear off some burnished bronze, never-burning skin. Shove it under a microscope, see the designer signature, Chinese characters like tattoos on the necks of college girls.</i></p>
+
+<p><i>All ten ranked cross-country runners this season took family trips to China after school let out last year. When they&#8217;d returned and established dominance, King took the Asics guy up on his offer to join the experimental training program. Found himself running by himself, following daily instructions from an email address. King knows there&#8217;s a machine on the other end, some oracle in some data center chewing on his performance data full time. Responds only to email, immediately, all hours.</i></p>
+
+<p><b>Rated R</b>.  Contains strong language, strong emotions, and moderate violence.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/09/27/ep177-usurpers/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP177_Usurpers.mp3" length="24845350" type="audio/mpeg"/>
+      <itunes:duration>34:29</itunes:duration>
+      <itunes:subtitle>By Derek Zumsteg.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+King spots a knock-off cluster, glowing sunny in the rain, too fit, perfectly proportioned. ...</itunes:subtitle>
+      <itunes:summary>By Derek Zumsteg.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+King spots a knock-off cluster, glowing sunny in the rain, too fit, perfectly proportioned. Tear off some burnished bronze, never-burning skin. Shove it under a microscope, see the designer signature, Chinese characters like tattoos on the necks of college girls.
+
+All ten ranked cross-country runners this season took family trips to China after school let out last year. When they'd returned and established dominance, King took the Asics guy up on his offer to join the experimental training program. Found himself running by himself, following daily instructions from an email address. King knows there's a machine on the other end, some oracle in some data center chewing on his performance data full time. Responds only to email, immediately, all hours.
+
+Rated R.  Contains strong language, strong emotions, and moderate violence.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP176: How The World Became Quiet: A Post-Human Creation Myth</title>
+      <link>http://escapepod.org/2008/09/20/ep176-how-the-world-became-quiet-a-post-human-creation-myth/</link>
+      <comments>http://escapepod.org/2008/09/20/ep176-how-the-world-became-quiet-a-post-human-creation-myth/#comments</comments>
+      <pubDate>Sat, 20 Sep 2008 07:30:03 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=312</guid>
+      <description><![CDATA[By Rachel Swirsky.
+Read by Frank Key (of Hooting Yard).
+
+Humans laid the foundation for the sixth apocalypse in much the same way they&#8217;d triggered the previous ones. Having recovered their ambition after the Apocalypse of Serotonin and rebuilt their populations after the Apocalypse of Grease, they once again embarked on their species&#8217; long term goal to [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://rachelswirsky.com/">By Rachel Swirsky.</a></b><br />
+Read by Frank Key (of <a href="http://hootingyard.org">Hooting Yard</a>).<br/></p>
+
+<p><em>Humans laid the foundation for the sixth apocalypse in much the same way they&#8217;d triggered the previous ones. Having recovered their ambition after the Apocalypse of Serotonin and rebuilt their populations after the Apocalypse of Grease, they once again embarked on their species&#8217; long term goal to wreak as much havoc as possible on the environment through carelessness and boredom. This time, the trees protested. They devoured buildings, whipped wind into hurricanes between their branches, tangled men into their roots and devoured them as mulch. In retaliation, men chopped down trees, fire-bombed jungles, and released genetically engineered insects to devour tender shoots.
+</em></p>
+
+<p><em>The pitched battle decimated civilians on both sides, but eventually &#8212; though infested and rootless &#8212; the trees overwhelmed their opposition. Mankind was forced to send its battered representatives to a sacred grove in the middle of the world’s oldest forest and beg for a treaty.
+</em></p>
+
+<p><b>Rated PG</b>.  Contains war, invasion, exodus, mass extinction, religious revival, and a lot of mud.</p>
+
+<p><b>Referenced Sites:</b><br/>
+<a href="http://resonancefm.com">Resonance FM</a><br/>
+<a href="http://realitybreakpodcast.com">Reality Break Podcast</a></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/09/20/ep176-how-the-world-became-quiet-a-post-human-creation-myth/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP176_HowTheWorldBecameQuiet.mp3" length="22421923" type="audio/mpeg"/>
+      <itunes:duration>31:07</itunes:duration>
+      <itunes:subtitle>By Rachel Swirsky.
+Read by Frank Key (of Hooting Yard).
+
+Humans laid the foundation for the sixth apocalypse in much the same way they'd triggered the previous ...</itunes:subtitle>
+      <itunes:summary>By Rachel Swirsky.
+Read by Frank Key (of Hooting Yard).
+
+Humans laid the foundation for the sixth apocalypse in much the same way they'd triggered the previous ones. Having recovered their ambition after the Apocalypse of Serotonin and rebuilt their populations after the Apocalypse of Grease, they once again embarked on their species' long term goal to wreak as much havoc as possible on the environment through carelessness and boredom. This time, the trees protested. They devoured buildings, whipped wind into hurricanes between their branches, tangled men into their roots and devoured them as mulch. In retaliation, men chopped down trees, fire-bombed jungles, and released genetically engineered insects to devour tender shoots.
+
+
+The pitched battle decimated civilians on both sides, but eventually -- though infested and rootless -- the trees overwhelmed their opposition. Mankind was forced to send its battered representatives to a sacred grove in the middle of the worldrsquo;s oldest forest and beg for a treaty.
+
+
+Rated PG.  Contains war, invasion, exodus, mass extinction, religious revival, and a lot of mud.
+
+Referenced Sites:
+Resonance FM
+Reality Break Podcast
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP175: Reparations</title>
+      <link>http://escapepod.org/2008/09/11/ep175-reparations/</link>
+      <comments>http://escapepod.org/2008/09/11/ep175-reparations/#comments</comments>
+      <pubDate>Thu, 11 Sep 2008 20:10:58 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=311</guid>
+      <description><![CDATA[By Merrie Haskell.
+Read by Mary Robinette Kowal.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+I just swab my arm and administer the cocktail, a booster for my
+radiation immunization. The taste of brass fills my mouth in seconds,
+and I know that the cocktail has flooded my system. With this stuff
+burbling inside, I can stare down three sieverts without [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.merriehaskell.com/">By Merrie Haskell.</a></b><br />
+Read by <a href="http://www.maryrobinettekowal.com/">Mary Robinette Kowal</a>.<br/></p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>I just swab my arm and administer the cocktail, a booster for my
+radiation immunization. The taste of brass fills my mouth in seconds,
+and I know that the cocktail has flooded my system. With this stuff
+burbling inside, I can stare down three sieverts without blinking, or,
+more importantly, losing my immune system, teeth, hair, and intestines.</i></p>
+
+<p><i>When I finish with my dose, I grab the skin on the newbie&#8217;s arm, swab
+her and shoot her up, too. &#8220;Ow!&#8221; She jumps and rubs her arm. I watch
+carefully to see her smack her lips at the taste. &#8220;You could&#8217;ve warned
+me.&#8221;</i></p>
+
+<p><i>&#8220;No time,&#8221; I say, doctoring Ken and the others just as abruptly. We&#8217;re
+pressed, and they know it.</i></p>
+
+<p><i>We&#8217;re all nice and anodized on the inside at 8:12. We&#8217;re waiting for
+8:16, or thereabouts. There aren&#8217;t any atomic clocks in 1945, so all
+times are approximate, internally speaking. And from here on in, there&#8217;s
+no point speaking any other way.</i></p>
+
+<p><b>Rated PG</b>.  Contains mass destruction and graphic descriptions of the wounded.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/09/11/ep175-reparations/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP175_Reparations.mp3" length="20040182" type="audio/mpeg"/>
+      <itunes:duration>27:48</itunes:duration>
+      <itunes:subtitle>By Merrie Haskell.
+Read by Mary Robinette Kowal.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+I just swab my arm and administer the cocktail, a booster for my
+radiation ...</itunes:subtitle>
+      <itunes:summary>By Merrie Haskell.
+Read by Mary Robinette Kowal.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+I just swab my arm and administer the cocktail, a booster for my
+radiation immunization. The taste of brass fills my mouth in seconds,
+and I know that the cocktail has flooded my system. With this stuff
+burbling inside, I can stare down three sieverts without blinking, or,
+more importantly, losing my immune system, teeth, hair, and intestines.
+
+When I finish with my dose, I grab the skin on the newbie's arm, swab
+her and shoot her up, too. "Ow!" She jumps and rubs her arm. I watch
+carefully to see her smack her lips at the taste. "You could've warned
+me."
+
+"No time," I say, doctoring Ken and the others just as abruptly. We're
+pressed, and they know it.
+
+We're all nice and anodized on the inside at 8:12. We're waiting for
+8:16, or thereabouts. There aren't any atomic clocks in 1945, so all
+times are approximate, internally speaking. And from here on in, there's
+no point speaking any other way.
+
+Rated PG.  Contains mass destruction and graphic descriptions of the wounded.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>Merrie Haskell</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP174: Private Detective Molly</title>
+      <link>http://escapepod.org/2008/09/06/ep174-private-detective-molly/</link>
+      <comments>http://escapepod.org/2008/09/06/ep174-private-detective-molly/#comments</comments>
+      <pubDate>Sat, 06 Sep 2008 05:32:07 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated PG]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=310</guid>
+      <description><![CDATA[By A.B. Goelman.
+Read by Anna Eley.
+
+That&#8217;s when I see my new boss.  Four feet of trouble.  Brunette variety.  Tear tracks cutting through the dirt on her face, wearing jeans that were already old when Molly Dolls were nothing more than molded plastic and fantasy homes.
+
+She&#8217;s no idiot, though.  &#8220;I want the [...]]]></description>
+      <content:encoded><![CDATA[<p><b>By A.B. Goelman.</b><br />
+Read by Anna Eley.<br/></p>
+
+<p><i>That&#8217;s when I see my new boss.  Four feet of trouble.  Brunette variety.  Tear tracks cutting through the dirt on her face, wearing jeans that were already old when Molly Dolls were nothing more than molded plastic and fantasy homes.</i></p>
+
+<p><i>She&#8217;s no idiot, though.  &#8220;I want the Debutante persona,&#8221; she says.  &#8220;You&#8217;re still not Debutante Molly are you?&#8221;</i></p>
+
+<p><i>I like a girl who doesn&#8217;t need me to explain everything.  &#8220;That&#8217;s right, kid,&#8221;  I pull my blonde hair back into a pony tail and cover it with my fedora.</i></p>
+
+<p><i>&#8220;Why do you keep coming out as a Petey persona?&#8221;  Poor kid sounds like she&#8217;s about to cry.  Don&#8217;t blame her for wanting Debutante Molly. Debbie&#8217;s the kind of girl who reminds me why God bothered with Adam&#8217;s rib in the first place.  As wholesome and satisfying as a virgin daiquiri on a hot day.  Everything I&#8217;m not.  &#8220;Petey&#8217;s not even a girl&#8217;s name,&#8221; the kid says.</i></p>
+
+<p><b>Rated PG</b>.  A somewhat dark kid&#8217;s story; contains parental tragedy and complex social issues.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/09/06/ep174-private-detective-molly/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP174_PrivateDetectiveMolly.mp3" length="27745897" type="audio/mpeg"/>
+      <itunes:duration>38:30</itunes:duration>
+      <itunes:subtitle>By A.B. Goelman.
+Read by Anna Eley.
+
+That's when I see my new boss.  Four feet of trouble.  Brunette variety.  Tear tracks cutting through ...</itunes:subtitle>
+      <itunes:summary>By A.B. Goelman.
+Read by Anna Eley.
+
+That's when I see my new boss.  Four feet of trouble.  Brunette variety.  Tear tracks cutting through the dirt on her face, wearing jeans that were already old when Molly Dolls were nothing more than molded plastic and fantasy homes.
+
+She's no idiot, though.  "I want the Debutante persona," she says.  "You're still not Debutante Molly are you?"
+
+I like a girl who doesn't need me to explain everything.  "That's right, kid,"  I pull my blonde hair back into a pony tail and cover it with my fedora.
+
+"Why do you keep coming out as a Petey persona?"  Poor kid sounds like she's about to cry.  Don't blame her for wanting Debutante Molly. Debbie's the kind of girl who reminds me why God bothered with Adam's rib in the first place.  As wholesome and satisfying as a virgin daiquiri on a hot day.  Everything I'm not.  "Petey's not even a girl's name," the kid says.
+
+Rated PG.  A somewhat dark kid's story; contains parental tragedy and complex social issues.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+      <itunes:author>A.B. Goelman</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP173: Robots Don’t Cry</title>
+      <link>http://escapepod.org/2008/08/29/ep173-robots-dont-cry/</link>
+      <comments>http://escapepod.org/2008/08/29/ep173-robots-dont-cry/#comments</comments>
+      <pubDate>Fri, 29 Aug 2008 23:20:41 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated R]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=309</guid>
+      <description><![CDATA[By Mike Resnick.
+Read by Stephen Eley.
+
+Every now and then we strike it rich. Usually we make a profit. Once in a while we just break even. There&#8217;s only been one world where we actually lost money; I still remember it &#8212; Greenwillow. Except that it wasn&#8217;t green, and there wasn&#8217;t a willow on the whole [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://mikeresnick.com/">By Mike Resnick.</a></b><br />
+Read by Stephen Eley.<br/></p>
+
+<p><i>Every now and then we strike it rich. Usually we make a profit. Once in a while we just break even. There&#8217;s only been one world where we actually lost money; I still remember it &#8212; Greenwillow. Except that it wasn&#8217;t green, and there wasn&#8217;t a willow on the whole damned planet.</i></p>
+
+<p><i>There was a robot, though. We found him, me and the Baroni, in a barn, half-hidden under a pile of ancient computer parts and self-feeders for mutated cattle. We were picking through the stuff, wondering if there was any market for it, tossing most of it aside, when the sun peeked in through the doorway and glinted off a prismatic eye.</i></p>
+
+<p><i>&#8220;Hey, take a look at what we&#8217;ve got here,&#8221; I said. &#8220;Give me a hand digging it out.&#8221;
+</i></p>
+
+<p><b>Rated R</b>.  Contains profanity and some sadness.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/08/29/ep173-robots-dont-cry/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP173_RobotsDontCry.mp3" length="30534513" type="audio/mpeg"/>
+      <itunes:duration>42:22</itunes:duration>
+      <itunes:subtitle>By Mike Resnick.
+Read by Stephen Eley.
+
+Every now and then we strike it rich. Usually we make a profit. Once in a while we just break ...</itunes:subtitle>
+      <itunes:summary>By Mike Resnick.
+Read by Stephen Eley.
+
+Every now and then we strike it rich. Usually we make a profit. Once in a while we just break even. There's only been one world where we actually lost money; I still remember it -- Greenwillow. Except that it wasn't green, and there wasn't a willow on the whole damned planet.
+
+There was a robot, though. We found him, me and the Baroni, in a barn, half-hidden under a pile of ancient computer parts and self-feeders for mutated cattle. We were picking through the stuff, wondering if there was any market for it, tossing most of it aside, when the sun peeked in through the doorway and glinted off a prismatic eye.
+
+"Hey, take a look at what we've got here," I said. "Give me a hand digging it out."
+
+
+Rated R.  Contains profanity and some sadness.
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+      <itunes:author>Stephen Eley</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Jeffrey DeRego’s surgery and financial assistance</title>
+      <link>http://escapepod.org/2008/08/28/jeffrey-deregos-surgery-and-financial-assistance/</link>
+      <comments>http://escapepod.org/2008/08/28/jeffrey-deregos-surgery-and-financial-assistance/#comments</comments>
+      <pubDate>Thu, 28 Aug 2008 21:27:55 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Site News]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=308</guid>
+      <description><![CDATA[I&#8217;ve been in e-mail contact today with Jeffrey DeRego&#8217;s wife Cindy.  She tells me that he had open heart surgery yesterday to bypass five blocked arteries.  The surgery was successful and he&#8217;s expected to go home sometime next week.
+
+If anyone cares to know for purposes of sending cards or flowers, etc., he&#8217;s at [...]]]></description>
+      <content:encoded><![CDATA[<p>I&#8217;ve been in e-mail contact today with Jeffrey DeRego&#8217;s wife Cindy.  She tells me that he had open heart surgery yesterday to bypass five blocked arteries.  The surgery was successful and he&#8217;s expected to go home sometime next week.</p>
+
+<p>If anyone cares to know for purposes of sending cards or flowers, etc., he&#8217;s at the Catholic Medical Center in Manchester, New Hampshire.  You&#8217;re also welcome to send cards via us (<b>Jeffrey DeRego, c/o Escape Artists Inc., PO Box 1538, Stone Mountain GA  30086</b>) and I&#8217;ll see that they get forwarded to him.</p>
+
+<p>I asked if any financial assistance would be useful, and without getting into overly personal details, the answer is &#8220;yes.&#8221;  The DeRegos aren&#8217;t in a good position right now in terms of employment, and while they&#8217;re applying for state assistance, surgery of this magnitude is still certain to have a very harsh impact.  Escape Artists will be making a contribution, and with Cindy&#8217;s permission, I&#8217;m asking the Escape Pod listenership to help out.</p>
+
+<p>I&#8217;ve set up a PayPal address just for this purpose under our corporate account.  If you&#8217;d like to help Jeff out, please send your contributions via PayPal to <b>derego@escapepod.org</b>.  (I hope to have a better link on the sidebar by tonight.)  We&#8217;ll cover PayPal fees, so 100% of funds donated will go to defray Jeff&#8217;s and Cindy&#8217;s medical expenses.  I&#8217;ll keep that PayPal address open through September.</p>
+
+<p>Please follow your conscience on whether to help.  Jeff&#8217;s given us some of our favorite EP stories, and I&#8217;m happy to do whatever I can for him.  If you see fit to help him out too, I&#8217;m sure he and his wife would be very grateful.  Thanks for your attention.</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/08/28/jeffrey-deregos-surgery-and-financial-assistance/feed/</wfw:commentRss>
+    </item>
+    <item>
+      <title>EP172: Union Dues - Tabula Rasa</title>
+      <link>http://escapepod.org/2008/08/22/ep172-union-dues-tabula-rasa/</link>
+      <comments>http://escapepod.org/2008/08/22/ep172-union-dues-tabula-rasa/#comments</comments>
+      <pubDate>Fri, 22 Aug 2008 22:00:58 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Podcasts]]></category>
+      <category><![CDATA[Rated R]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=307</guid>
+      <description><![CDATA[By Jeffrey R. DeRego.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+I raise my hand and she stops chattering. &#8220;Just tell me who you are and where I am.&#8221;
+
+She freezes and blinks twice. &#8220;Tell you where you are? Cap, you&#8217;re home. This is the Cleveland Pyramid. I&#8217;m Sarah Shadow. You don&#8217;t recognize me?&#8221;
+
+&#8220;That doesn&#8217;t [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://jeffderego.blogspot.com/">By Jeffrey R. DeRego.</a></b><br />
+Read by Stephen Eley.<br/></p>
+
+<p><b>Audible.com Promotion!</b><br/>
+Get your free audiobook at: <a href="http://audible.com/escapepodsff">http://audible.com/escapepodsff</a></p>
+
+<p><i>I raise my hand and she stops chattering. &#8220;Just tell me who you are and where I am.&#8221;</i></p>
+
+<p><i>She freezes and blinks twice. &#8220;Tell you where you are? Cap, you&#8217;re home. This is the Cleveland Pyramid. I&#8217;m Sarah Shadow. You don&#8217;t recognize me?&#8221;</i></p>
+
+<p><i>&#8220;That doesn&#8217;t mean anything to me!&#8221; I stand up. Frustration washes over me like heat from a blast furnace, and worse, my stomach is rumbling. &#8220;I woke up today. The first person I saw was you, but I&#8217;ve never seen you before in my life. I figured as long as I was in the hospital, or wherever, I&#8217;d start to remember, but it&#8217;s a blank. Where am I, what is this place, what are you people?&#8221; I point at her costume. &#8220;And that, what&#8217;s that, are you part of a circus act or something?&#8221;</i></p>
+
+<p><b>Rated R</b>.  Contains profanity, sexual innuendo, and a bit of soap opera.</p>
+
+<p><b>Referenced Sites:</b>
+<a href="http://playingforkeepsnovel.com">Playing for Keeps</a> by Mur Lafferty</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/08/22/ep172-union-dues-tabula-rasa/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/EP172_UnionDues_TabulaRasa.mp3" length="29308207" type="audio/mpeg"/>
+      <itunes:duration>40:40</itunes:duration>
+      <itunes:subtitle>By Jeffrey R. DeRego.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+I raise my hand and she stops chattering. "Just tell me who you ...</itunes:subtitle>
+      <itunes:summary>By Jeffrey R. DeRego.
+Read by Stephen Eley.
+
+Audible.com Promotion!
+Get your free audiobook at: http://audible.com/escapepodsff
+
+I raise my hand and she stops chattering. "Just tell me who you are and where I am."
+
+She freezes and blinks twice. "Tell you where you are? Cap, you're home. This is the Cleveland Pyramid. I'm Sarah Shadow. You don't recognize me?"
+
+"That doesn't mean anything to me!" I stand up. Frustration washes over me like heat from a blast furnace, and worse, my stomach is rumbling. "I woke up today. The first person I saw was you, but I've never seen you before in my life. I figured as long as I was in the hospital, or wherever, I'd start to remember, but it's a blank. Where am I, what is this place, what are you people?" I point at her costume. "And that, what's that, are you part of a circus act or something?"
+
+Rated R.  Contains profanity, sexual innuendo, and a bit of soap opera.
+
+Referenced Sites:
+Playing for Keeps by Mur Lafferty
+</itunes:summary>
+      <itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+      <itunes:author>Jeffrey R. DeRego</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>EP BONUS: Playing for Keeps by Mur Lafferty</title>
+      <link>http://escapepod.org/2008/08/22/ep-bonus-playing-for-keeps-by-mur-lafferty/</link>
+      <comments>http://escapepod.org/2008/08/22/ep-bonus-playing-for-keeps-by-mur-lafferty/#comments</comments>
+      <pubDate>Fri, 22 Aug 2008 12:33:10 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Bonus]]></category>
+      <category><![CDATA[Podcasts]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=306</guid>
+      <description><![CDATA[The Escape Pod episode is still coming up later today.  But by special permission of Mur Lafferty, here&#8217;s a special bonus for you: the complete text of her novel, Playing for Keeps, in PDF format.  It&#8217;s officially launching August 25th, so be sure to buy it from Amazon then!
+
+
+]]></description>
+      <content:encoded><![CDATA[<p>The Escape Pod episode is still coming up later today.  But by special permission of Mur Lafferty, here&#8217;s a special bonus for you: the <i>complete</i> text of her novel, <b>Playing for Keeps</b>, in PDF format.  It&#8217;s officially launching August 25th, so be sure to buy it from Amazon then!</p>
+
+<p><a href="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/pfk_full.pdf"><img src="http://www.murverse.com/wp-content/PFK_front_cover_web.jpg" alt="Playing for Keeps" /></a></p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/08/22/ep-bonus-playing-for-keeps-by-mur-lafferty/feed/</wfw:commentRss>
+      <enclosure url="http://media.rawvoice.com/escapepod/media.libsyn.com/media/escapepod/pfk_full.pdf" length="38561552" type="application/pdf"/>
+      <itunes:duration>00:01:01</itunes:duration>
+      <itunes:subtitle>The Escape Pod episode is still coming up later today.  But by special permission of Mur Lafferty, here's a special bonus for you: the ...</itunes:subtitle>
+      <itunes:summary>The Escape Pod episode is still coming up later today.  But by special permission of Mur Lafferty, here's a special bonus for you: the complete text of her novel, Playing for Keeps, in PDF format.  It's officially launching August 25th, so be sure to buy it from Amazon then!
+
+
+</itunes:summary>
+      <itunes:keywords>Bonus,,Podcasts</itunes:keywords>
+      <itunes:author>Mur Lafferty</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>No</itunes:block>
+    </item>
+    <item>
+      <title>Meetup at Dragon*Con!</title>
+      <link>http://escapepod.org/2008/08/21/meetup-at-dragoncon/</link>
+      <comments>http://escapepod.org/2008/08/21/meetup-at-dragoncon/#comments</comments>
+      <pubDate>Thu, 21 Aug 2008 21:26:45 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category><![CDATA[Rambling]]></category>
+      <category><![CDATA[Site News]]></category>
+      <guid isPermaLink="false">http://escapepod.org/?p=305</guid>
+      <description><![CDATA[First: my apologies for recent delays in getting Escape Pod out; in the last couple of weeks it&#8217;s hit the feed Friday afternoons rather than late Thursday.  It&#8217;s probably going to happen again this week.  Personal business lately has included me losing my day job, finding a new and much better day job [...]]]></description>
+      <content:encoded><![CDATA[<p>First: my apologies for recent delays in getting Escape Pod out; in the last couple of weeks it&#8217;s hit the feed Friday afternoons rather than late Thursday.  It&#8217;s <em>probably</em> going to happen again this week.  Personal business lately has included me losing my day job, finding a new and much better day job in the space of a couple of weeks (I start Tuesday), and taking on some short-term obligations to fill in the gaps.  Expect more on that in an upcoming metacast In the meantime I&#8217;m realizing I&#8217;m having to get <em>much</em> better organized with a lot of Escape Artists work, not for efficiency but for necessity.  So yes, things are late; but I still don&#8217;t expect to miss any weeks, and I hope that the lateness will be short term.</p>
+
+<p>Now to the news: once again, Escape Pod and Minx&#8217;s <a href="http://polyweekly.com">Polyamory Weekly</a> will be hosting a joint meetup at Dragon*Con.  Just like last year, we&#8217;ll be doing a group brunch on <b>SUNDAY, AUGUST 31 AT 11:30 AM</b>, at the <a href="http://gordonbiersch.com/restaurants/index.php?pg=location&#038;sub=loc&#038;location_id=28">Gordon Biersch Brewpub</a>.  It&#8217;s about a mile north from the hotels, but an easy walk or cab ride.  This time we have the restaurant&#8217;s upper mezzanine reserved, so it&#8217;s like having the place to ourselves.  Ask at the front for the Escape Pod meetup.</p>
+
+<p>Generally, I expect to hit very little programming at this year&#8217;s D*C.  My intent for almost the entire con is just to hang out at the bars or parties, and socialize and relax.  If you&#8217;d like to join me, follow my <a href="http://twitter.com/SFEley">Twitter feed</a> to find out where I am or <a href="mailto:sfeley@gmail.com">drop me a line</a> to met me know where you are.  And if you know where the <i>good</i> parties are &#8212; let me know too!</p>
+
+<p>Thanks, and we&#8217;ll have the next EP up as soon as possible.  (It&#8217;s a Union Dues story, if that helps with the waiting.)</p>
+]]></content:encoded>
+      <wfw:commentRss>http://escapepod.org/2008/08/21/meetup-at-dragoncon/feed/</wfw:commentRss>
+    </item>
+  </channel>
+</rss>
+<!-- Dynamic Page Served (once) in 1.980 seconds -->

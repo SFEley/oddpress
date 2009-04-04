@@ -15,7 +15,13 @@ class EpisodesController < ApplicationController
     @episode = Episode.new(params[:episode])
     if @episode.save
       flash[:notice] = "Episode created."
-      redirect_to :episodes
+      if params[:has_enclosure]
+        @episode.wait_for_enclosure!
+        redirect_to new_episode_enclosure_url(@episode)
+      else
+        @episode.approve!
+        redirect_to :episodes
+      end
     else
       render :new
     end
