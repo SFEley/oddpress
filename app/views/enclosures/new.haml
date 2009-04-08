@@ -1,0 +1,12 @@
+%h1 New Enclosure
+
+= styled_flash
+= error_messages_for :enclosure
+
+-form_for @enclosure, :url => new_episode_enclosure_path(@episode), :builder => FabulousBuilder do |f|
+  / =f.text_field :title
+  / =f.text_field :publish
+  / =f.text_area :description
+  / =check_box_tag 'has_enclosure', 1, true
+  / =label_tag 'has_enclosure', 'Has a podcast enclosure'
+  =f.submit

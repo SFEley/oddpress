@@ -45,3 +45,9 @@ end
 Then /^I should see that episode's description$/ do
   response.body.gsub(/[^\w]/, '').should include_text(@episode.description.gsub(/[^\w]/, ''))
 end
+
+Then /^I should have an episode titled "(.*)"$/ do |title|
+  @episode = Episode.find_by_title(title)
+  @episode.should_not be_nil
+end
+
