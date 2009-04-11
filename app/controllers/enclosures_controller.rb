@@ -4,4 +4,8 @@ class EnclosuresController < ApplicationController
     @enclosure = @episode.build_enclosure
   end
   
+  def create
+    @episode ||= Episode.find(params[:episode_id])
+    @enclosure = @episode.create_enclosure(params[:enclosure])
+  end
 end

@@ -18,7 +18,9 @@ Rails::Initializer.run do |config|
   config.gem "haml"#
   config.gem "mislav-will_paginate", :lib => "will_paginate"
   config.gem "chronic"
-  config.gem "rubyist-aasm", :lib => "aasm"
+  config.gem "thoughtbot-paperclip", :lib => "paperclip"
+  config.gem "mime-types", :lib => "mime/types"
+  # config.gem "rubyist-aasm", :lib => "aasm"
   
   # config.gem "bj"
   # config.gem "hpricot", :version => '0.6', :source => "http://code.whytheluckystiff.net"

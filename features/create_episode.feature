@@ -27,21 +27,13 @@ Feature: Create Episode
      | Test Podcast 5| blah blah| Test with broken date   | must be readable as a date|
 #     | Test Podcast 1| next week| Test duplicate title    | must be unique.           |
 
- Scenario: Has an Enclosure
+ Scenario: Add Enclosure
    Given I am a contributor
     When I go to the create episode page
      And I fill in "Title" with "Any title"
      And I fill in "Publish" with "Now"
-     And I check "Has a podcast enclosure"
+     And I upload "untagged.mp3"
      And I press "Save changes"
     Then I should have an episode titled "Any title"
-     And I should be on the create enclosure page for that episode
-  
-  Scenario: Has an Enclosure
-    Given I am a contributor
-     When I go to the create episode page
-      And I fill in "Title" with "Any title"
-      And I fill in "Publish" with "Now"
-      And I uncheck "Has a podcast enclosure"
-      And I press "Save changes"
-     Then I should be on the view episodes page
+     And the episode should have an enclosure
+     And I should be on the view episodes page

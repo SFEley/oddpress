@@ -1,3 +1,5 @@
+EXAMPLE_FILES_DIR = Rails.root.join('spec','examples')
+
 Given "no episodes" do
   Episode.destroy_all
 end
@@ -18,6 +20,10 @@ end
 
 Given /^an episode titled "(.*)" dated (.*)$/ do |title, date|
   @episode = Episode.make(:title => title, :published_at => Chronic.parse(date))
+end
+
+When /^I upload "(.*\..*)"$/ do |filename|
+  When %[I attach the file at "#{EXAMPLE_FILES_DIR + filename}" to "Enclosure"]
 end
 
 Then /^I should see (\d+) episodes$/ do |num|

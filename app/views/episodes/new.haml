@@ -7,8 +7,7 @@
   =f.text_field :title
   =f.text_field :publish
   =f.text_area :description
-  =check_box_tag 'has_enclosure', 1, true
-  =label_tag 'has_enclosure', 'Has a podcast enclosure'
+  =f.file_field :enclosure
   =f.submit
   
   

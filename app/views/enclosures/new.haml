@@ -3,7 +3,8 @@
 = styled_flash
 = error_messages_for :enclosure
 
--form_for @enclosure, :url => new_episode_enclosure_path(@episode), :builder => FabulousBuilder do |f|
+-form_for [:episode, @enclosure], :url => episode_enclosure_path(@episode), :html => { :multipart => true }, :builder => FabulousBuilder do |f|
+  =f.file_field :file
   / =f.text_field :title
   / =f.text_field :publish
   / =f.text_area :description

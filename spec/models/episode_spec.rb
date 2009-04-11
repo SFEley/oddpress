@@ -1,6 +1,7 @@
 require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
 describe Episode do
+  
   before do
     @this = Episode.make_unsaved
   end
@@ -99,30 +100,62 @@ describe Episode do
     end
   end
   
-  describe "enclosure" do
+  describe "enclosure attachment" do
+    before(:all) do
+      # Set up sample enclosure files
+      example_dir = Rails.root.join('spec','examples')
+      @untagged_file = File.new(example_dir + 'untagged.mp3')
+      @document_file = File.new(example_dir + 'document.pdf')
+    end
+
+    before(:each) do
+      @this.enclosure = @document_file
+    end
+    
     it "is optional" do
       @this.enclosure = nil
       @this.should be_valid
     end
-  end
-  
-  describe "status" do
-    before(:each) do
+    
+    it "can be assigned a file" do
+      @this.should be_valid
+    end
+    
+    it "knows its size" do
+      @this.enclosure.size.should == 365677
+    end
+    
+    it "knows its content type" do
+      @this.enclosure.content_type.should == 'application/pdf'
+    end
+    
+    it "knows its filename" do
+      @this.enclosure.original_filename.should == 'document.pdf'
+    end
+    
+    it "saves when the model is saved" do
+      @this.enclosure.should_receive(:save).and_return(true)
       @this.save
     end
-    
-    it "begins as draft" do
-      @this.status.should == "draft"
-    end
-    
-    it "moves to needs_enclosure if the right box is checked" do
-      @this.wait_for_enclosure!
-      @this.status.should == "needs_enclosure"
-    end
-    
-    it "moves to live if no enclosure is needed" do
-      @this.approve!
-      @this.status.should == "live"
-    end
   end
+  
+  # describe "status" do
+  #   before(:each) do
+  #     @this.save
+  #   end
+  #   
+  #   it "begins as draft" do
+  #     @this.status.should == "draft"
+  #   end
+  #   
+  #   it "moves to needs_enclosure if the right box is checked" do
+  #     @this.wait_for_enclosure!
+  #     @this.status.should == "needs_enclosure"
+  #   end
+  #   
+  #   it "moves to live if no enclosure is needed" do
+  #     @this.approve!
+  #     @this.status.should == "live"
+  #   end
+  # end
 end

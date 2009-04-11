@@ -6,3 +6,4 @@ doc/app
 *.tmproj
 *.sqlite3
 db/schema.rb
+public/system/enclosures/**
