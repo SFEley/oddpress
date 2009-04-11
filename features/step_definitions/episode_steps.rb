@@ -57,3 +57,8 @@ Then /^I should have an episode titled "(.*)"$/ do |title|
   @episode.should_not be_nil
 end
 
+Then /^the episode should have an enclosure$/ do
+  @episode.enclosure.should be_a_file
+end
+
+
