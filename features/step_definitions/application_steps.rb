@@ -6,6 +6,10 @@ When /^I hit (.*page) for that (.*)$/ do |page, element|
   visit path_to(page, instance_variable_get("@#{element}"))
 end
   
+When /^I click "(.*)"$/ do |page|  # Because Webrat's "I follow" isn't intuitive for me
+  When %[I follow "#{page}"]
+end
+
 Then /^I should see a (\w+)$/ do |element|
   response.body.should have_tag(element)
 end

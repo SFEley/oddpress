@@ -20,4 +20,8 @@ class EpisodesController < ApplicationController
       render :new
     end
   end
+  
+  def show
+    @episode = Episode.find(params[:id])
+  end
 end

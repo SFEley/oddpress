@@ -4,12 +4,16 @@ module NavigationHelpers
     
     when /the homepage/
       root_path
+    when /the home page/  # The linguistics of the "homepage" compound word annoy me
+      root_path
     when /the view episodes page/i
       episodes_url
     when /the create episode page/i
       new_episode_url
     when /the create enclosure page/i
       new_episode_enclosure_url(parent_object)
+    when /the view episode page/i
+      episode_url(parent_object)
     # Add more page name => path mappings here
     
     else

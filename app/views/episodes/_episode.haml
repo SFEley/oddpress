@@ -1,5 +1,5 @@
 %div[episode]
-  %h2.title= h(episode.title)
+  %h2.title= link_to h(episode.title), episode_url(episode)
 
   %h3.published_at= episode.published_at.to_s(:long)
 
