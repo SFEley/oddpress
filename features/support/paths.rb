@@ -1,19 +1,18 @@
 module NavigationHelpers
   def path_to(page_name, parent_object = nil)
     case page_name
-    
-    when /the homepage/
-      root_path
-    when /the home page/  # The linguistics of the "homepage" compound word annoy me
+    when /(the .+ page) for that (.*)/
+      return path_to($1, instance_variable_get("@#{$2}"))
+    when /the home\s?page/i  # The linguistics of the "homepage" compound word annoy me
       root_path
     when /the view episodes page/i
-      episodes_url
+      episodes_path
     when /the create episode page/i
-      new_episode_url
+      new_episode_path
     when /the create enclosure page/i
-      new_episode_enclosure_url(parent_object)
+      new_episode_enclosure_path(parent_object)
     when /the view episode page/i
-      episode_url(parent_object)
+      episode_path(parent_object)
     # Add more page name => path mappings here
     
     else
@@ -22,7 +21,4 @@ module NavigationHelpers
   end
 end
 
-World do |world|
-  world.extend NavigationHelpers
-  world
-end
+World(NavigationHelpers)

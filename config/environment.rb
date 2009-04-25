@@ -20,6 +20,7 @@ Rails::Initializer.run do |config|
   config.gem "chronic"
   config.gem "thoughtbot-paperclip", :lib => "paperclip"
   config.gem "mime-types", :lib => "mime/types"
+  config.gem "rdiscount"
   # config.gem "rubyist-aasm", :lib => "aasm"
   
   # config.gem "bj"

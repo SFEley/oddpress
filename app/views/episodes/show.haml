@@ -1,1 +1,10 @@
-%h1= h(@episode.title)
+%h1.title= h(@episode.title)
+
+.published_at= @episode.published_at.to_s(:verbose)
+
+.description= format(@episode.description)
+
+.enclosure
+  .enclosure_link= link_to "Download", enclosure_link(@episode)
+  .size= @episode.enclosure.size
+  .duration= @episode.duration

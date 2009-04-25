@@ -22,8 +22,12 @@ Given /^an episode titled "(.*)" dated (.*)$/ do |title, date|
   @episode = Episode.make(:title => title, :published_at => Chronic.parse(date))
 end
 
+Given /^an enclosure from "(.*\..*)"$/ do |filename|
+  @episode.enclosure = File.new(EXAMPLE_FILES_DIR.join(filename))
+end
+
 When /^I upload "(.*\..*)"$/ do |filename|
-  When %[I attach the file at "#{EXAMPLE_FILES_DIR + filename}" to "Enclosure"]
+  When %[I attach the file at "#{EXAMPLE_FILES_DIR.join(filename)}" to "Enclosure"]
 end
 
 Then /^I should see (\d+) episodes$/ do |num|
